@@ -1,43 +1,39 @@
 [
   {
     "name": "blog",
-    "url": "https://9renoto.dev",
-    "icon": "https://favicons.githubusercontent.com/9renoto.dev",
+    "url": "https://9renpoto.dev",
+    "icon": "https://favicons.githubusercontent.com/9renpoto.dev",
     "slug": "blog",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-01-12": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "slides",
-    "url": "https://slides.9renpoto.dev",
-    "icon": "https://favicons.githubusercontent.com/slides.9renpoto.dev",
+    "url": "https://slide.9renpoto.dev",
+    "icon": "https://favicons.githubusercontent.com/slide.9renpoto.dev",
     "slug": "slides",
     "status": "down",
-    "uptime": "0.23%",
-    "uptimeDay": "0.23%",
-    "uptimeWeek": "0.23%",
-    "uptimeMonth": "0.23%",
-    "uptimeYear": "0.23%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-01-12": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "github",

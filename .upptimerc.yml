@@ -5,9 +5,9 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: blog
-    url: https://9renoto.dev
+    url: https://9renpoto.dev
   - name: slides
-    url: https://slides.9renpoto.dev
+    url: https://slide.9renpoto.dev
   - name: github
     url: https://github.com/9renpoto
   - name: twitter
