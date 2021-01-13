@@ -18,6 +18,10 @@ sites:
     url: https://gitlab.com/9renpoto
   - name: bitbucket
     url: https://bitbucket.org/9renpoto
+  - name: dev.to
+    url: https://dev.to/9renpoto
+  - name: wakatime
+    url: https://wakatime.com/@9renpoto
 
 status-website:
   baseUrl: /upptime
