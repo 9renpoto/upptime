@@ -40,18 +40,20 @@
     "url": "https://github.com/9renpoto",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "github",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2916,
-    "timeDay": 1075,
-    "timeWeek": 2916,
-    "timeMonth": 2916,
-    "timeYear": 2916,
-    "dailyMinutesDown": {}
+    "time": 3441,
+    "timeDay": 5664,
+    "timeWeek": 3441,
+    "timeMonth": 3441,
+    "timeYear": 3441,
+    "dailyMinutesDown": {
+      "2021-01-19": 0
+    }
   },
   {
     "name": "twitter",
