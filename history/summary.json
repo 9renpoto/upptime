@@ -40,19 +40,19 @@
     "url": "https://github.com/9renpoto",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "github",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3441,
-    "timeDay": 5664,
-    "timeWeek": 3441,
-    "timeMonth": 3441,
-    "timeYear": 3441,
+    "status": "up",
+    "uptime": "98.73%",
+    "uptimeDay": "91.16%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "98.73%",
+    "time": 3610,
+    "timeDay": 5769,
+    "timeWeek": 3610,
+    "timeMonth": 3610,
+    "timeYear": 3610,
     "dailyMinutesDown": {
-      "2021-01-19": 0
+      "2021-01-19": 127
     }
   },
   {
