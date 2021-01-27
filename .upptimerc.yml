@@ -26,6 +26,8 @@ sites:
     url: https://profile.codersrank.io/user/9renpoto/
   - name: npm
     url: https://www.npmjs.com/~9renpoto
+  - name: pinterest
+    url: https://www.pinterest.jp/9renpoto/
 
 status-website:
   baseUrl: /upptime
