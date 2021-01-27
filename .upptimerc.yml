@@ -22,6 +22,8 @@ sites:
     url: https://dev.to/9renpoto
   - name: wakatime
     url: https://wakatime.com/@9renpoto
+  - name: coderank
+    url: https://profile.codersrank.io/user/9renpoto/
 
 status-website:
   baseUrl: /upptime
