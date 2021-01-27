@@ -24,6 +24,8 @@ sites:
     url: https://wakatime.com/@9renpoto
   - name: coderank
     url: https://profile.codersrank.io/user/9renpoto/
+  - name: npm
+    url: https://www.npmjs.com/~9renpoto
 
 status-website:
   baseUrl: /upptime
