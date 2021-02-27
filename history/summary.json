@@ -13,7 +13,7 @@
     "time": 410,
     "timeDay": 149,
     "timeWeek": 165,
-    "timeMonth": 291,
+    "timeMonth": 271,
     "timeYear": 410,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 382,
     "timeDay": 130,
     "timeWeek": 116,
-    "timeMonth": 247,
+    "timeMonth": 224,
     "timeYear": 382,
     "dailyMinutesDown": {}
   },
@@ -41,15 +41,15 @@
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "github",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.72%",
+    "uptimeYear": "99.73%",
     "time": 2262,
     "timeDay": 1227,
     "timeWeek": 1197,
-    "timeMonth": 1837,
+    "timeMonth": 1529,
     "timeYear": 2262,
     "dailyMinutesDown": {
       "2021-02-08": 54,
@@ -70,7 +70,7 @@
     "time": 444,
     "timeDay": 413,
     "timeWeek": 421,
-    "timeMonth": 436,
+    "timeMonth": 442,
     "timeYear": 444,
     "dailyMinutesDown": {
       "2021-02-05": 182
@@ -90,7 +90,7 @@
     "time": 1183,
     "timeDay": 761,
     "timeWeek": 1031,
-    "timeMonth": 1138,
+    "timeMonth": 1113,
     "timeYear": 1183,
     "dailyMinutesDown": {}
   },
@@ -126,7 +126,7 @@
     "time": 267,
     "timeDay": 303,
     "timeWeek": 235,
-    "timeMonth": 280,
+    "timeMonth": 252,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2021-02-05": 17
@@ -146,7 +146,7 @@
     "time": 150,
     "timeDay": 90,
     "timeWeek": 93,
-    "timeMonth": 133,
+    "timeMonth": 137,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -155,18 +155,20 @@
     "url": "https://wakatime.com/@9renpoto",
     "icon": "https://favicons.githubusercontent.com/wakatime.com",
     "slug": "wakatime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 460,
-    "timeDay": 452,
-    "timeWeek": 493,
-    "timeMonth": 462,
+    "timeDay": 444,
+    "timeWeek": 486,
+    "timeMonth": 464,
     "timeYear": 460,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-27": 0
+    }
   },
   {
     "name": "coderank",
@@ -182,7 +184,7 @@
     "time": 996,
     "timeDay": 1154,
     "timeWeek": 1018,
-    "timeMonth": 996,
+    "timeMonth": 998,
     "timeYear": 996,
     "dailyMinutesDown": {}
   },
@@ -200,7 +202,7 @@
     "time": 175,
     "timeDay": 86,
     "timeWeek": 311,
-    "timeMonth": 175,
+    "timeMonth": 170,
     "timeYear": 175,
     "dailyMinutesDown": {}
   },
@@ -218,7 +220,7 @@
     "time": 606,
     "timeDay": 454,
     "timeWeek": 526,
-    "timeMonth": 606,
+    "timeMonth": 615,
     "timeYear": 606,
     "dailyMinutesDown": {}
   },
@@ -236,7 +238,7 @@
     "time": 1018,
     "timeDay": 849,
     "timeWeek": 1077,
-    "timeMonth": 1018,
+    "timeMonth": 1005,
     "timeYear": 1018,
     "dailyMinutesDown": {}
   }
