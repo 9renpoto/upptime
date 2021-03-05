@@ -4,18 +4,20 @@
     "url": "https://9renpoto.dev",
     "icon": "https://favicons.githubusercontent.com/9renpoto.dev",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 72,
-    "timeWeek": 139,
-    "timeMonth": 176,
-    "timeYear": 382,
-    "dailyMinutesDown": {}
+    "time": 564,
+    "timeDay": 5677,
+    "timeWeek": 1532,
+    "timeMonth": 559,
+    "timeYear": 564,
+    "dailyMinutesDown": {
+      "2021-03-05": 0
+    }
   },
   {
     "name": "slides",
@@ -62,15 +64,15 @@
     "icon": "https://favicons.githubusercontent.com/twitter.com",
     "slug": "twitter",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.75%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.76%",
     "time": 445,
     "timeDay": 521,
     "timeWeek": 443,
-    "timeMonth": 434,
+    "timeMonth": 432,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2021-02-05": 182
@@ -121,12 +123,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 271,
     "timeDay": 138,
     "timeWeek": 306,
-    "timeMonth": 261,
+    "timeMonth": 251,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2021-02-05": 17
