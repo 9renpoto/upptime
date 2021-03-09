@@ -101,9 +101,9 @@
     "url": "https://gitlab.com/9renpoto",
     "icon": "https://favicons.githubusercontent.com/gitlab.com",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,7 +112,9 @@
     "timeWeek": 194,
     "timeMonth": 184,
     "timeYear": 191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-09": 0
+    }
   },
   {
     "name": "bitbucket",
