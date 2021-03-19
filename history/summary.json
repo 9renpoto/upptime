@@ -235,17 +235,17 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://favicons.githubusercontent.com/www.instagram.com",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 905,
-    "timeDay": 361,
-    "timeWeek": 709,
-    "timeMonth": 852,
-    "timeYear": 905,
+    "time": 890,
+    "timeDay": 227,
+    "timeWeek": 632,
+    "timeMonth": 826,
+    "timeYear": 890,
     "dailyMinutesDown": {}
   }
 ]
