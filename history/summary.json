@@ -219,18 +219,20 @@
     "url": "https://www.pinterest.jp/9renpoto/",
     "icon": "https://favicons.githubusercontent.com/www.pinterest.jp",
     "slug": "pinterest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 734,
-    "timeDay": 668,
-    "timeWeek": 562,
-    "timeMonth": 710,
-    "timeYear": 734,
-    "dailyMinutesDown": {}
+    "time": 739,
+    "timeDay": 974,
+    "timeWeek": 652,
+    "timeMonth": 728,
+    "timeYear": 739,
+    "dailyMinutesDown": {
+      "2021-05-11": 0
+    }
   },
   {
     "name": "instagram",
