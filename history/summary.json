@@ -174,12 +174,12 @@
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.64%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.91%",
     "time": 679,
     "timeDay": 423,
     "timeWeek": 409,
-    "timeMonth": 1778,
+    "timeMonth": 1814,
     "timeYear": 679,
     "dailyMinutesDown": {
       "2021-09-04": 29,
@@ -195,9 +195,9 @@
     "url": "https://profile.codersrank.io/user/9renpoto/",
     "icon": "https://favicons.githubusercontent.com/profile.codersrank.io",
     "slug": "coderank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -206,7 +206,9 @@
     "timeWeek": 987,
     "timeMonth": 990,
     "timeYear": 1106,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-27": 0
+    }
   },
   {
     "name": "npm",
