@@ -195,19 +195,19 @@
     "url": "https://profile.codersrank.io/user/9renpoto/",
     "icon": "https://favicons.githubusercontent.com/profile.codersrank.io",
     "slug": "coderank",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1106,
-    "timeDay": 1265,
-    "timeWeek": 987,
-    "timeMonth": 990,
+    "timeDay": 1188,
+    "timeWeek": 1002,
+    "timeMonth": 994,
     "timeYear": 1106,
     "dailyMinutesDown": {
-      "2021-09-27": 0
+      "2021-09-27": 12
     }
   },
   {
