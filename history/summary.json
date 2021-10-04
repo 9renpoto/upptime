@@ -86,19 +86,19 @@
     "url": "https://www.facebook.com/9renpoto",
     "icon": "https://favicons.githubusercontent.com/www.facebook.com",
     "slug": "facebook",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "74.24%",
-    "uptimeWeek": "96.32%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "73.51%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.90%",
-    "time": 561,
-    "timeDay": 4661,
-    "timeWeek": 1794,
+    "time": 562,
+    "timeDay": 3693,
+    "timeWeek": 1694,
     "timeMonth": 780,
-    "timeYear": 561,
+    "timeYear": 562,
     "dailyMinutesDown": {
-      "2021-10-04": 371
+      "2021-10-04": 382
     }
   },
   {
