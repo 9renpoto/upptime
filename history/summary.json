@@ -200,9 +200,9 @@
     "url": "https://profile.codersrank.io/user/9renpoto/",
     "icon": "https://favicons.githubusercontent.com/profile.codersrank.io",
     "slug": "coderank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -211,7 +211,9 @@
     "timeWeek": 970,
     "timeMonth": 995,
     "timeYear": 1096,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-06": 0
+    }
   },
   {
     "name": "npm",
