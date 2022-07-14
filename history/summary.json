@@ -63,18 +63,20 @@
     "url": "https://twitter.com/9renpoto",
     "icon": "https://favicons.githubusercontent.com/twitter.com",
     "slug": "twitter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 2408,
-    "timeWeek": 2306,
-    "timeMonth": 1759,
+    "time": 545,
+    "timeDay": 1446,
+    "timeWeek": 2078,
+    "timeMonth": 1720,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-14": 0
+    }
   },
   {
     "name": "facebook",
