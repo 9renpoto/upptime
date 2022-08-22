@@ -166,9 +166,9 @@
     "slug": "wakatime",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
     "time": 646,
     "timeDay": 2880,
@@ -176,7 +176,6 @@
     "timeMonth": 1243,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2022-08-22": 9,
       "2022-07-29": 19,
       "2022-05-17": 204,
       "2022-04-27": 20,
@@ -245,9 +244,9 @@
     "url": "https://www.pinterest.jp/9renpoto/",
     "icon": "https://favicons.githubusercontent.com/www.pinterest.jp",
     "slug": "pinterest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -256,7 +255,9 @@
     "timeWeek": 1010,
     "timeMonth": 896,
     "timeYear": 588,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-22": 0
+    }
   },
   {
     "name": "instagram",
