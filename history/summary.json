@@ -244,19 +244,19 @@
     "url": "https://www.pinterest.jp/9renpoto/",
     "icon": "https://favicons.githubusercontent.com/www.pinterest.jp",
     "slug": "pinterest",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 596,
-    "timeDay": 578,
-    "timeWeek": 1010,
-    "timeMonth": 896,
+    "time": 597,
+    "timeDay": 671,
+    "timeWeek": 979,
+    "timeMonth": 892,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2022-08-22": 0
+      "2022-08-22": 11
     }
   },
   {
