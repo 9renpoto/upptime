@@ -125,18 +125,20 @@
     "url": "https://bitbucket.org/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/bitbucket.org.ico",
     "slug": "bitbucket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 369,
-    "timeDay": 546,
-    "timeWeek": 354,
-    "timeMonth": 381,
+    "timeDay": 376,
+    "timeWeek": 335,
+    "timeMonth": 375,
     "timeYear": 374,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-04": 0
+    }
   },
   {
     "name": "dev.to",
