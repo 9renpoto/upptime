@@ -50,7 +50,7 @@
     "timeDay": 669,
     "timeWeek": 1432,
     "timeMonth": 1122,
-    "timeYear": 1585,
+    "timeYear": 1586,
     "dailyMinutesDown": {
       "2021-12-27": 126,
       "2021-11-26": 17,
@@ -73,7 +73,7 @@
     "timeDay": 2639,
     "timeWeek": 2855,
     "timeMonth": 3119,
-    "timeYear": 1260,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2022-07-14": 17
     }
@@ -85,18 +85,16 @@
     "slug": "facebook",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
     "timeDay": 352,
     "timeWeek": 365,
     "timeMonth": 372,
     "timeYear": 359,
-    "dailyMinutesDown": {
-      "2022-10-20": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "gitlab",
@@ -234,7 +232,7 @@
     "timeDay": 68,
     "timeWeek": 309,
     "timeMonth": 581,
-    "timeYear": 506,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2022-10-10": 22,
       "2022-06-30": 38,
@@ -258,7 +256,7 @@
     "timeDay": 540,
     "timeWeek": 584,
     "timeMonth": 788,
-    "timeYear": 674,
+    "timeYear": 675,
     "dailyMinutesDown": {
       "2022-09-17": 19
     }
@@ -269,18 +267,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
     "status": "down",
-    "uptime": "99.46%",
+    "uptime": "99.45%",
     "uptimeDay": "4.18%",
-    "uptimeWeek": "58.93%",
-    "uptimeMonth": "90.55%",
-    "uptimeYear": "99.14%",
+    "uptimeWeek": "58.37%",
+    "uptimeMonth": "90.42%",
+    "uptimeYear": "99.13%",
     "time": 678,
     "timeDay": 399,
     "timeWeek": 352,
     "timeMonth": 469,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2022-10-20": 1327,
+      "2022-10-21": 5,
+      "2022-10-20": 1379,
       "2022-10-19": 1427,
       "2022-10-18": 1385,
       "2022-06-05": 17,
