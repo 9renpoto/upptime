@@ -50,7 +50,7 @@
     "timeDay": 1227,
     "timeWeek": 1745,
     "timeMonth": 1383,
-    "timeYear": 1584,
+    "timeYear": 1587,
     "dailyMinutesDown": {
       "2021-12-27": 126,
       "2021-11-26": 17,
@@ -73,7 +73,7 @@
     "timeDay": 3879,
     "timeWeek": 4190,
     "timeMonth": 3386,
-    "timeYear": 1363,
+    "timeYear": 1366,
     "dailyMinutesDown": {
       "2022-07-14": 17
     }
@@ -93,7 +93,7 @@
     "timeDay": 459,
     "timeWeek": 312,
     "timeMonth": 369,
-    "timeYear": 361,
+    "timeYear": 362,
     "dailyMinutesDown": {}
   },
   {
@@ -201,7 +201,7 @@
     "timeDay": 1135,
     "timeWeek": 1189,
     "timeMonth": 1125,
-    "timeYear": 1190,
+    "timeYear": 1191,
     "dailyMinutesDown": {
       "2022-10-28": 20,
       "2022-10-20": 21,
@@ -233,7 +233,7 @@
     "timeDay": 364,
     "timeWeek": 462,
     "timeMonth": 557,
-    "timeYear": 506,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2022-10-10": 22,
       "2022-06-30": 38,
@@ -257,7 +257,7 @@
     "timeDay": 641,
     "timeWeek": 1094,
     "timeMonth": 935,
-    "timeYear": 697,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2022-09-17": 19
     }
@@ -267,17 +267,17 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "97.66%",
-    "uptimeDay": "6.06%",
-    "uptimeWeek": "4.53%",
+    "uptimeDay": "6.60%",
+    "uptimeWeek": "4.61%",
     "uptimeMonth": "52.36%",
     "uptimeYear": "95.96%",
-    "time": 655,
-    "timeDay": 335,
-    "timeWeek": 315,
-    "timeMonth": 335,
-    "timeYear": 603,
+    "time": 648,
+    "timeDay": 311,
+    "timeWeek": 313,
+    "timeMonth": 333,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2022-11-01": 1334,
       "2022-10-31": 1254,
