@@ -50,7 +50,7 @@
     "timeDay": 879,
     "timeWeek": 1497,
     "timeMonth": 2035,
-    "timeYear": 1611,
+    "timeYear": 1612,
     "dailyMinutesDown": {
       "2021-12-27": 126,
       "2021-11-26": 17
@@ -71,7 +71,7 @@
     "timeDay": 4070,
     "timeWeek": 3612,
     "timeMonth": 3522,
-    "timeYear": 1493,
+    "timeYear": 1496,
     "dailyMinutesDown": {
       "2022-07-14": 17
     }
@@ -134,7 +134,7 @@
     "timeDay": 511,
     "timeWeek": 377,
     "timeMonth": 445,
-    "timeYear": 384,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2022-10-04": 53
     }
@@ -154,7 +154,7 @@
     "timeDay": 103,
     "timeWeek": 169,
     "timeMonth": 187,
-    "timeYear": 154,
+    "timeYear": 155,
     "dailyMinutesDown": {
       "2022-04-06": 85
     }
@@ -174,7 +174,7 @@
     "timeDay": 91,
     "timeWeek": 264,
     "timeMonth": 289,
-    "timeYear": 502,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2022-09-01": 56,
       "2022-08-30": 154,
@@ -232,7 +232,7 @@
     "timeDay": 411,
     "timeWeek": 447,
     "timeMonth": 438,
-    "timeYear": 503,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2022-10-10": 22,
       "2022-06-30": 38,
@@ -256,7 +256,7 @@
     "timeDay": 614,
     "timeWeek": 1166,
     "timeMonth": 980,
-    "timeYear": 722,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2022-09-17": 19
     }
@@ -268,17 +268,18 @@
     "slug": "instagram",
     "status": "down",
     "uptime": "95.35%",
-    "uptimeDay": "8.33%",
+    "uptimeDay": "7.64%",
     "uptimeWeek": "3.30%",
-    "uptimeMonth": "1.08%",
-    "uptimeYear": "91.68%",
+    "uptimeMonth": "0.95%",
+    "uptimeYear": "91.67%",
     "time": 639,
-    "timeDay": 378,
+    "timeDay": 390,
     "timeWeek": 785,
     "timeMonth": 424,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2022-11-17": 1275,
+      "2022-11-18": 1,
+      "2022-11-17": 1330,
       "2022-11-16": 1335,
       "2022-11-15": 1411,
       "2022-11-14": 1440,
