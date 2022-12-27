@@ -51,9 +51,7 @@
     "timeWeek": 1544,
     "timeMonth": 1035,
     "timeYear": 1607,
-    "dailyMinutesDown": {
-      "2021-12-27": 126
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "twitter",
@@ -266,17 +264,18 @@
     "slug": "instagram",
     "status": "down",
     "uptime": "97.68%",
-    "uptimeDay": "3.64%",
+    "uptimeDay": "3.39%",
     "uptimeWeek": "4.83%",
-    "uptimeMonth": "46.81%",
+    "uptimeMonth": "46.80%",
     "uptimeYear": "95.57%",
     "time": 537,
-    "timeDay": 335,
+    "timeDay": 349,
     "timeWeek": 438,
     "timeMonth": 396,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2022-12-26": 1388,
+      "2022-12-27": 1,
+      "2022-12-26": 1392,
       "2022-12-25": 1374,
       "2022-12-24": 1308,
       "2022-12-23": 1349,
