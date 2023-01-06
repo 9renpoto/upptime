@@ -30,6 +30,7 @@ sites:
     url: https://www.pinterest.jp/9renpoto/
   - name: instagram
     url: https://www.instagram.com/9renpoto/
+    maxResponseTime: 1500
 
 status-website:
   baseUrl: /upptime
