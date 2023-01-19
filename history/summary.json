@@ -22,19 +22,19 @@
     "url": "https://slide.9renpoto.dev",
     "icon": "https://icons.duckduckgo.com/ip3/slide.9renpoto.dev.ico",
     "slug": "slides",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 0,
-    "timeWeek": 118,
-    "timeMonth": 113,
+    "timeDay": 147,
+    "timeWeek": 122,
+    "timeMonth": 114,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2023-01-19": 0
+      "2023-01-19": 15
     }
   },
   {
@@ -70,7 +70,7 @@
     "timeDay": 3606,
     "timeWeek": 4386,
     "timeMonth": 3863,
-    "timeYear": 2086,
+    "timeYear": 2090,
     "dailyMinutesDown": {
       "2022-07-14": 17
     }
@@ -174,7 +174,7 @@
     "timeDay": 327,
     "timeWeek": 322,
     "timeMonth": 328,
-    "timeYear": 534,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2022-11-21": 16,
       "2022-09-01": 56,
@@ -232,7 +232,7 @@
     "timeDay": 768,
     "timeWeek": 292,
     "timeMonth": 529,
-    "timeYear": 478,
+    "timeYear": 479,
     "dailyMinutesDown": {
       "2022-10-10": 22,
       "2022-06-30": 38,
@@ -254,7 +254,7 @@
     "timeDay": 681,
     "timeWeek": 834,
     "timeMonth": 922,
-    "timeYear": 817,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2022-09-17": 19
     }
