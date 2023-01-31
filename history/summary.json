@@ -108,7 +108,7 @@
     "timeDay": 187,
     "timeWeek": 265,
     "timeMonth": 298,
-    "timeYear": 325,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2022-11-30": 36,
       "2022-11-07": 18,
@@ -190,9 +190,9 @@
     "url": "https://profile.codersrank.io/user/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/profile.codersrank.io.ico",
     "slug": "coderank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -202,6 +202,7 @@
     "timeMonth": 1371,
     "timeYear": 1258,
     "dailyMinutesDown": {
+      "2023-01-31": 0,
       "2022-10-28": 20,
       "2022-10-20": 21,
       "2022-10-17": 16,
