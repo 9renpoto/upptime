@@ -60,18 +60,19 @@
     "url": "https://twitter.com/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1826,
+    "time": 1829,
     "timeDay": 5851,
     "timeWeek": 4309,
     "timeMonth": 4066,
     "timeYear": 2246,
     "dailyMinutesDown": {
+      "2023-02-05": 0,
       "2022-07-14": 17
     }
   },
