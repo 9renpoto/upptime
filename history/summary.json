@@ -42,19 +42,19 @@
     "url": "https://github.com/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "github",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1563,
-    "timeDay": 705,
-    "timeWeek": 972,
-    "timeMonth": 1020,
-    "timeYear": 1508,
+    "time": 1566,
+    "timeDay": 1376,
+    "timeWeek": 1166,
+    "timeMonth": 1072,
+    "timeYear": 1511,
     "dailyMinutesDown": {
-      "2023-02-08": 0
+      "2023-02-08": 9
     }
   },
   {
