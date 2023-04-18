@@ -81,11 +81,11 @@
     "url": "https://www.facebook.com/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "facebook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 354,
     "timeDay": 308,
@@ -93,7 +93,7 @@
     "timeMonth": 275,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2023-04-18": 8
+      "2023-04-18": 0
     }
   },
   {
@@ -127,18 +127,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitbucket.org.ico",
     "slug": "bitbucket",
     "status": "down",
-    "uptime": "96.68%",
+    "uptime": "96.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.62%",
-    "uptimeYear": "92.54%",
+    "uptimeMonth": "10.45%",
+    "uptimeYear": "92.53%",
     "time": 441,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 390,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2023-04-18": 1297,
+      "2023-04-18": 1373,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
