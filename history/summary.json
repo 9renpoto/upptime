@@ -83,18 +83,16 @@
     "slug": "facebook",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 354,
     "timeDay": 311,
     "timeWeek": 279,
     "timeMonth": 282,
     "timeYear": 355,
-    "dailyMinutesDown": {
-      "2023-04-18": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "gitlab",
@@ -130,15 +128,16 @@
     "uptime": "96.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.43%",
-    "uptimeYear": "92.52%",
+    "uptimeMonth": "10.30%",
+    "uptimeYear": "92.51%",
     "time": 441,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 447,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2023-04-18": 1382,
+      "2023-04-19": 1,
+      "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
