@@ -44,16 +44,18 @@
     "slug": "github",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1448,
-    "timeDay": 928,
-    "timeWeek": 997,
-    "timeMonth": 915,
-    "timeYear": 1373,
-    "dailyMinutesDown": {}
+    "time": 1451,
+    "timeDay": 1482,
+    "timeWeek": 1149,
+    "timeMonth": 968,
+    "timeYear": 1375,
+    "dailyMinutesDown": {
+      "2023-05-11": 9
+    }
   },
   {
     "name": "twitter",
