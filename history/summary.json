@@ -4,9 +4,9 @@
     "url": "https://9renpoto.dev",
     "icon": "https://icons.duckduckgo.com/ip3/9renpoto.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 116,
     "timeMonth": 121,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-14": 0
+    }
   },
   {
     "name": "slides",
