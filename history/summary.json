@@ -61,9 +61,9 @@
     "url": "https://9renpoto.dev",
     "icon": "https://icons.duckduckgo.com/ip3/9renpoto.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.85%",
     "uptimeYear": "99.57%",
@@ -73,6 +73,7 @@
     "timeMonth": 389,
     "timeYear": 154,
     "dailyMinutesDown": {
+      "2023-05-23": 0,
       "2023-05-15": 844,
       "2023-05-14": 1410
     }
@@ -171,7 +172,7 @@
     "uptimeYear": "99.90%",
     "time": 532,
     "timeDay": 457,
-    "timeWeek": 329,
+    "timeWeek": 334,
     "timeMonth": 339,
     "timeYear": 524,
     "dailyMinutesDown": {
@@ -217,7 +218,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.npmjs.com.ico",
     "slug": "npm",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
