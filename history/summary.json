@@ -1,36 +1,5 @@
 [
   {
-    "name": "twitter",
-    "url": "https://twitter.com/9renpoto",
-    "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
-    "slug": "twitter",
-    "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "75.81%",
-    "uptimeYear": "97.97%",
-    "time": 2724,
-    "timeDay": 409,
-    "timeWeek": 382,
-    "timeMonth": 2039,
-    "timeYear": 3267,
-    "dailyMinutesDown": {
-      "2023-07-08": 184,
-      "2023-07-07": 1440,
-      "2023-07-06": 1440,
-      "2023-07-05": 1440,
-      "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440,
-      "2023-07-01": 1440,
-      "2023-06-30": 316,
-      "2023-06-13": 18,
-      "2023-03-06": 60,
-      "2022-07-14": 17
-    }
-  },
-  {
     "name": "facebook",
     "url": "https://www.facebook.com/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
@@ -68,8 +37,8 @@
   },
   {
     "name": "blog",
-    "url": "https://9renpoto.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/9renpoto.dev.ico",
+    "url": "https://9renpoto.win",
+    "icon": "https://icons.duckduckgo.com/ip3/9renpoto.win.ico",
     "slug": "blog",
     "status": "up",
     "uptime": "99.81%",
