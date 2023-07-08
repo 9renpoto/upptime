@@ -4,14 +4,12 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: twitter
-    url: https://twitter.com/9renpoto
   - name: facebook
     url: https://www.facebook.com/9renpoto
   - name: yamap
     url: https://yamap.com/users/2121389
   - name: blog
-    url: https://9renpoto.dev
+    url: https://9renpoto.win
   - name: slides
     url: https://slide.9renpoto.dev
   - name: github
