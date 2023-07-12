@@ -4,26 +4,34 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: facebook
-    url: https://www.facebook.com/9renpoto
-  - name: yamap
-    url: https://yamap.com/users/2121389
   - name: blog
     url: https://9renpoto.win
   - name: slides
     url: https://slide.9renpoto.dev
   - name: github
     url: https://github.com/9renpoto
-  - name: gitlab
-    url: https://gitlab.com/9renpoto
-  - name: dev.to
-    url: https://dev.to/9renpoto
+  - name: npm
+    url: https://www.npmjs.com/~9renpoto
   - name: wakatime
     url: https://wakatime.com/@9renpoto
   - name: coderank
     url: https://profile.codersrank.io/user/9renpoto/
-  - name: npm
-    url: https://www.npmjs.com/~9renpoto
+  - name: lapras
+    url: https://lapras.com/public/PY86OSF
+  - name: youtrust
+    url: https://youtrust.jp/users/9renpoto
+  - name: wantedly
+    url: https://www.wantedly.com/id/keisuke_umeno
+  - name: gitlab
+    url: https://gitlab.com/9renpoto
+  - name: dev.to
+    url: https://dev.to/9renpoto
+  - name: yamap
+    url: https://yamap.com/users/2121389
+  - name: facebook
+    url: https://www.facebook.com/9renpoto
+  - name: twitter
+    url: https://twitter.com/9renpoto
   - name: pinterest
     url: https://www.pinterest.jp/9renpoto/
   # - name: instagram
