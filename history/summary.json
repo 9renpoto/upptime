@@ -12,7 +12,7 @@
     "uptimeYear": "99.55%",
     "time": 417,
     "timeDay": 1606,
-    "timeWeek": 1465,
+    "timeWeek": 1733,
     "timeMonth": 1637,
     "timeYear": 499,
     "dailyMinutesDown": {
@@ -36,7 +36,7 @@
     "uptimeYear": "100.00%",
     "time": 114,
     "timeDay": 122,
-    "timeWeek": 112,
+    "timeWeek": 106,
     "timeMonth": 115,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -50,16 +50,18 @@
     "slug": "github",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 1291,
     "timeDay": 763,
-    "timeWeek": 840,
+    "timeWeek": 710,
     "timeMonth": 885,
     "timeYear": 1205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-20": 44
+    }
   },
   {
     "name": "npm",
@@ -74,7 +76,7 @@
     "uptimeYear": "99.98%",
     "time": 574,
     "timeDay": 122,
-    "timeWeek": 482,
+    "timeWeek": 470,
     "timeMonth": 378,
     "timeYear": 640,
     "dailyMinutesDown": {
@@ -95,7 +97,7 @@
     "uptimeYear": "99.91%",
     "time": 504,
     "timeDay": 395,
-    "timeWeek": 338,
+    "timeWeek": 357,
     "timeMonth": 360,
     "timeYear": 466,
     "dailyMinutesDown": {
@@ -120,7 +122,7 @@
     "uptimeYear": "99.94%",
     "time": 1248,
     "timeDay": 1195,
-    "timeWeek": 1140,
+    "timeWeek": 1118,
     "timeMonth": 1126,
     "timeYear": 1241,
     "dailyMinutesDown": {
@@ -144,7 +146,7 @@
     "uptimeYear": "100.00%",
     "time": 700,
     "timeDay": 562,
-    "timeWeek": 675,
+    "timeWeek": 656,
     "timeMonth": 708,
     "timeYear": 700,
     "dailyMinutesDown": {}
@@ -162,7 +164,7 @@
     "uptimeYear": "100.00%",
     "time": 581,
     "timeDay": 1760,
-    "timeWeek": 701,
+    "timeWeek": 745,
     "timeMonth": 592,
     "timeYear": 581,
     "dailyMinutesDown": {}
@@ -180,7 +182,7 @@
     "uptimeYear": "99.81%",
     "time": 1652,
     "timeDay": 4795,
-    "timeWeek": 1940,
+    "timeWeek": 2075,
     "timeMonth": 1675,
     "timeYear": 1652,
     "dailyMinutesDown": {
@@ -224,7 +226,7 @@
     "uptimeYear": "100.00%",
     "time": 159,
     "timeDay": 139,
-    "timeWeek": 180,
+    "timeWeek": 166,
     "timeMonth": 186,
     "timeYear": 162,
     "dailyMinutesDown": {}
@@ -242,7 +244,7 @@
     "uptimeYear": "100.00%",
     "time": 2084,
     "timeDay": 2499,
-    "timeWeek": 1549,
+    "timeWeek": 1613,
     "timeMonth": 1869,
     "timeYear": 2084,
     "dailyMinutesDown": {}
@@ -260,7 +262,7 @@
     "uptimeYear": "100.00%",
     "time": 343,
     "timeDay": 360,
-    "timeWeek": 288,
+    "timeWeek": 259,
     "timeMonth": 281,
     "timeYear": 331,
     "dailyMinutesDown": {}
@@ -278,7 +280,7 @@
     "uptimeYear": "100.00%",
     "time": 953,
     "timeDay": 602,
-    "timeWeek": 1124,
+    "timeWeek": 911,
     "timeMonth": 877,
     "timeYear": 966,
     "dailyMinutesDown": {
@@ -290,18 +292,19 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "98.44%",
+    "uptimeDay": "98.41%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "0.00%",
     "time": 442,
-    "timeDay": 588,
-    "timeWeek": 474,
-    "timeMonth": 474,
+    "timeDay": 576,
+    "timeWeek": 472,
+    "timeMonth": 475,
     "timeYear": 416,
     "dailyMinutesDown": {
+      "2023-08-20": 0,
       "2023-08-19": 22,
       "2023-08-18": 17,
       "2023-01-06": 562,
@@ -319,7 +322,7 @@
       "2022-12-25": 1374,
       "2022-12-24": 1308,
       "2022-12-23": 1349,
-      "2022-12-22": 387
+      "2022-12-22": 307
     }
   },
   {
@@ -330,12 +333,12 @@
     "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.53%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 2762,
     "timeDay": 491,
-    "timeWeek": 823,
+    "timeWeek": 898,
     "timeMonth": 823,
     "timeYear": 3137,
     "dailyMinutesDown": {
