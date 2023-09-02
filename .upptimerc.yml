@@ -35,9 +35,8 @@ sites:
   - name: instagram
     url: https://www.instagram.com/9renpoto/
     maxResponseTime: 1000
-  - name: twitter
-    url: https://twitter.com/9renpoto
-    maxResponseTime: 1000
+  - name: x
+    url: https://x.com/9renpoto
 
 status-website:
   baseUrl: /upptime
