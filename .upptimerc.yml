@@ -34,7 +34,6 @@ sites:
     url: https://www.pinterest.jp/9renpoto/
   - name: instagram
     url: https://www.instagram.com/9renpoto/
-    maxResponseTime: 1000
   - name: x
     url: https://x.com/9renpoto
 
