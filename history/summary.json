@@ -265,19 +265,19 @@
     "url": "https://www.facebook.com/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "facebook",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 12160,
-    "timeWeek": 3297,
-    "timeMonth": 955,
+    "time": 382,
+    "timeDay": 8274,
+    "timeWeek": 2987,
+    "timeMonth": 943,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2023-09-13": 0
+      "2023-09-13": 9
     }
   },
   {
