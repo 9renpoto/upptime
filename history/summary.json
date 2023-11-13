@@ -297,19 +297,19 @@
     "url": "https://x.com/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/x.com.ico",
     "slug": "x",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 1011,
-    "timeDay": 4823,
-    "timeWeek": 3346,
-    "timeMonth": 1376,
-    "timeYear": 1011,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.96%",
+    "time": 1005,
+    "timeDay": 3922,
+    "timeWeek": 3186,
+    "timeMonth": 1358,
+    "timeYear": 1005,
     "dailyMinutesDown": {
-      "2023-11-13": 24
+      "2023-11-13": 39
     }
   }
 ]
