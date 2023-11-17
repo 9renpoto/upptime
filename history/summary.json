@@ -243,19 +243,19 @@
     "url": "https://yamap.com/users/2121389",
     "icon": "https://icons.duckduckgo.com/ip3/yamap.com.ico",
     "slug": "yamap",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 2068,
-    "timeDay": 1891,
-    "timeWeek": 2208,
-    "timeMonth": 2033,
-    "timeYear": 2068,
+    "time": 2069,
+    "timeDay": 2001,
+    "timeWeek": 2209,
+    "timeMonth": 2039,
+    "timeYear": 2069,
     "dailyMinutesDown": {
-      "2023-11-17": 22
+      "2023-11-17": 29
     }
   },
   {
