@@ -243,10 +243,10 @@
     "url": "https://yamap.com/users/2121389",
     "icon": "https://icons.duckduckgo.com/ip3/yamap.com.ico",
     "slug": "yamap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2070,
@@ -254,7 +254,9 @@
     "timeWeek": 2318,
     "timeMonth": 2028,
     "timeYear": 2070,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 1
+    }
   },
   {
     "name": "facebook",
