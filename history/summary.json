@@ -91,7 +91,7 @@
     "timeDay": 613,
     "timeWeek": 380,
     "timeMonth": 388,
-    "timeYear": 626,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2023-05-15": 87
     }
@@ -298,19 +298,19 @@
     "url": "https://x.com/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/x.com.ico",
     "slug": "x",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.94%",
-    "time": 2203,
-    "timeDay": 4271,
-    "timeWeek": 4137,
-    "timeMonth": 2986,
-    "timeYear": 2203,
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.95%",
+    "time": 2243,
+    "timeDay": 4692,
+    "timeWeek": 4213,
+    "timeMonth": 3040,
+    "timeYear": 2243,
     "dailyMinutesDown": {
-      "2023-11-21": 9,
+      "2023-11-21": 1,
       "2023-11-15": 20,
       "2023-11-13": 39
     }
