@@ -165,18 +165,20 @@
     "url": "https://youtrust.jp/users/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/youtrust.jp.ico",
     "slug": "youtrust",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 777,
-    "timeWeek": 655,
-    "timeMonth": 598,
-    "timeYear": 605,
-    "dailyMinutesDown": {}
+    "time": 604,
+    "timeDay": 613,
+    "timeWeek": 629,
+    "timeMonth": 593,
+    "timeYear": 604,
+    "dailyMinutesDown": {
+      "2023-11-27": 0
+    }
   },
   {
     "name": "wantedly",
