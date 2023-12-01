@@ -28,9 +28,9 @@
     "url": "https://slide.9renpoto.dev",
     "icon": "https://icons.duckduckgo.com/ip3/slide.9renpoto.dev.ico",
     "slug": "slides",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -40,6 +40,7 @@
     "timeMonth": 104,
     "timeYear": 112,
     "dailyMinutesDown": {
+      "2023-12-01": 0,
       "2023-01-19": 15
     }
   },
