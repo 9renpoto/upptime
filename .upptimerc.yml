@@ -40,7 +40,8 @@ sites:
     url: https://x.com/9renpoto
 
 status-website:
-  baseUrl: /upptime
+  cname: status.9renpoto.win
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -48,6 +49,8 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Blog
+      href: https://9renpoto.win
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
