@@ -12,7 +12,7 @@
     "uptimeYear": "99.55%",
     "time": 902,
     "timeDay": 1717,
-    "timeWeek": 2165,
+    "timeWeek": 1704,
     "timeMonth": 1830,
     "timeYear": 1278,
     "dailyMinutesDown": {
@@ -36,7 +36,7 @@
     "uptimeYear": "99.37%",
     "time": 124,
     "timeDay": 115,
-    "timeWeek": 219,
+    "timeWeek": 176,
     "timeMonth": 234,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -59,7 +59,7 @@
     "uptimeYear": "96.44%",
     "time": 1168,
     "timeDay": 1259,
-    "timeWeek": 1296,
+    "timeWeek": 1239,
     "timeMonth": 1210,
     "timeYear": 1063,
     "dailyMinutesDown": {
@@ -92,7 +92,7 @@
     "uptimeYear": "99.98%",
     "time": 563,
     "timeDay": 77,
-    "timeWeek": 249,
+    "timeWeek": 237,
     "timeMonth": 387,
     "timeYear": 614,
     "dailyMinutesDown": {
@@ -112,7 +112,7 @@
     "uptimeYear": "99.92%",
     "time": 576,
     "timeDay": 524,
-    "timeWeek": 429,
+    "timeWeek": 413,
     "timeMonth": 338,
     "timeYear": 596,
     "dailyMinutesDown": {
@@ -138,7 +138,7 @@
     "uptimeYear": "99.93%",
     "time": 1233,
     "timeDay": 984,
-    "timeWeek": 1080,
+    "timeWeek": 1088,
     "timeMonth": 1250,
     "timeYear": 1249,
     "dailyMinutesDown": {
@@ -183,7 +183,7 @@
     "uptimeYear": "100.00%",
     "time": 863,
     "timeDay": 883,
-    "timeWeek": 930,
+    "timeWeek": 917,
     "timeMonth": 869,
     "timeYear": 863,
     "dailyMinutesDown": {}
@@ -201,7 +201,7 @@
     "uptimeYear": "99.95%",
     "time": 615,
     "timeDay": 524,
-    "timeWeek": 573,
+    "timeWeek": 543,
     "timeMonth": 632,
     "timeYear": 615,
     "dailyMinutesDown": {
@@ -221,7 +221,7 @@
     "uptimeYear": "99.96%",
     "time": 1614,
     "timeDay": 2311,
-    "timeWeek": 1664,
+    "timeWeek": 1696,
     "timeMonth": 1651,
     "timeYear": 1614,
     "dailyMinutesDown": {
@@ -241,7 +241,7 @@
     "uptimeYear": "99.98%",
     "time": 371,
     "timeDay": 248,
-    "timeWeek": 188,
+    "timeWeek": 187,
     "timeMonth": 208,
     "timeYear": 329,
     "dailyMinutesDown": {
@@ -262,7 +262,7 @@
     "uptimeYear": "100.00%",
     "time": 166,
     "timeDay": 357,
-    "timeWeek": 243,
+    "timeWeek": 244,
     "timeMonth": 196,
     "timeYear": 170,
     "dailyMinutesDown": {}
@@ -280,7 +280,7 @@
     "uptimeYear": "99.97%",
     "time": 2040,
     "timeDay": 1729,
-    "timeWeek": 2000,
+    "timeWeek": 1789,
     "timeMonth": 1933,
     "timeYear": 2040,
     "dailyMinutesDown": {
@@ -301,7 +301,7 @@
     "uptimeYear": "100.00%",
     "time": 162,
     "timeDay": 97,
-    "timeWeek": 162,
+    "timeWeek": 150,
     "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {}
@@ -319,7 +319,7 @@
     "uptimeYear": "100.00%",
     "time": 380,
     "timeDay": 231,
-    "timeWeek": 253,
+    "timeWeek": 242,
     "timeMonth": 388,
     "timeYear": 378,
     "dailyMinutesDown": {}
@@ -337,7 +337,7 @@
     "uptimeYear": "100.00%",
     "time": 473,
     "timeDay": 381,
-    "timeWeek": 473,
+    "timeWeek": 471,
     "timeMonth": 473,
     "timeYear": 473,
     "dailyMinutesDown": {}
@@ -355,7 +355,7 @@
     "uptimeYear": "99.98%",
     "time": 932,
     "timeDay": 523,
-    "timeWeek": 1121,
+    "timeWeek": 708,
     "timeMonth": 1159,
     "timeYear": 931,
     "dailyMinutesDown": {
@@ -367,19 +367,19 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "48.32%",
-    "time": 440,
-    "timeDay": 480,
-    "timeWeek": 510,
-    "timeMonth": 510,
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "49.87%",
+    "time": 441,
+    "timeDay": 395,
+    "timeWeek": 501,
+    "timeMonth": 507,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2024-01-10": 12,
+      "2024-01-10": 1,
       "2024-01-08": 36,
       "2024-01-07": 47,
       "2023-09-02": 70,
