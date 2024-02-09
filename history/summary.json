@@ -13,7 +13,7 @@
     "time": 1003,
     "timeDay": 394,
     "timeWeek": 1092,
-    "timeMonth": 1818,
+    "timeMonth": 1869,
     "timeYear": 1414,
     "dailyMinutesDown": {
       "2023-07-08": 63,
@@ -37,7 +37,7 @@
     "time": 135,
     "timeDay": 260,
     "timeWeek": 273,
-    "timeMonth": 271,
+    "timeMonth": 277,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2023-12-03": 511,
@@ -59,7 +59,7 @@
     "time": 1145,
     "timeDay": 575,
     "timeWeek": 968,
-    "timeMonth": 1110,
+    "timeMonth": 1075,
     "timeYear": 1061,
     "dailyMinutesDown": {
       "2023-09-02": 70,
@@ -92,7 +92,7 @@
     "time": 572,
     "timeDay": 681,
     "timeWeek": 532,
-    "timeMonth": 476,
+    "timeMonth": 486,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2023-05-15": 87
@@ -112,7 +112,7 @@
     "time": 559,
     "timeDay": 559,
     "timeWeek": 362,
-    "timeMonth": 405,
+    "timeMonth": 412,
     "timeYear": 599,
     "dailyMinutesDown": {
       "2023-12-08": 24,
@@ -138,7 +138,7 @@
     "time": 1222,
     "timeDay": 1078,
     "timeWeek": 1001,
-    "timeMonth": 1009,
+    "timeMonth": 991,
     "timeYear": 1208,
     "dailyMinutesDown": {
       "2024-02-05": 17,
@@ -163,7 +163,7 @@
     "time": 667,
     "timeDay": 670,
     "timeWeek": 655,
-    "timeMonth": 662,
+    "timeMonth": 668,
     "timeYear": 667,
     "dailyMinutesDown": {
       "2023-12-11": 58,
@@ -184,7 +184,7 @@
     "time": 869,
     "timeDay": 913,
     "timeWeek": 844,
-    "timeMonth": 873,
+    "timeMonth": 879,
     "timeYear": 869,
     "dailyMinutesDown": {}
   },
@@ -202,7 +202,7 @@
     "time": 615,
     "timeDay": 698,
     "timeWeek": 663,
-    "timeMonth": 601,
+    "timeMonth": 610,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2023-11-27": 120
@@ -222,7 +222,7 @@
     "time": 1594,
     "timeDay": 1488,
     "timeWeek": 1471,
-    "timeMonth": 1495,
+    "timeMonth": 1498,
     "timeYear": 1594,
     "dailyMinutesDown": {
       "2024-01-21": 69,
@@ -282,7 +282,7 @@
     "time": 2146,
     "timeDay": 2856,
     "timeWeek": 2225,
-    "timeMonth": 2825,
+    "timeMonth": 2886,
     "timeYear": 2146,
     "dailyMinutesDown": {
       "2023-11-27": 71,
@@ -303,7 +303,7 @@
     "time": 164,
     "timeDay": 91,
     "timeWeek": 142,
-    "timeMonth": 166,
+    "timeMonth": 163,
     "timeYear": 164,
     "dailyMinutesDown": {}
   },
@@ -321,7 +321,7 @@
     "time": 375,
     "timeDay": 279,
     "timeWeek": 405,
-    "timeMonth": 351,
+    "timeMonth": 356,
     "timeYear": 380,
     "dailyMinutesDown": {}
   },
@@ -339,7 +339,7 @@
     "time": 495,
     "timeDay": 373,
     "timeWeek": 572,
-    "timeMonth": 514,
+    "timeMonth": 502,
     "timeYear": 495,
     "dailyMinutesDown": {}
   },
@@ -357,7 +357,7 @@
     "time": 939,
     "timeDay": 752,
     "timeWeek": 678,
-    "timeMonth": 965,
+    "timeMonth": 977,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2023-12-28": 85
@@ -368,18 +368,19 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "63.25%",
-    "uptimeDay": "92.39%",
-    "uptimeWeek": "98.72%",
+    "status": "down",
+    "uptime": "64.91%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "98.71%",
     "uptimeMonth": "99.14%",
-    "uptimeYear": "89.65%",
+    "uptimeYear": "89.69%",
     "time": 464,
-    "timeDay": 378,
-    "timeWeek": 419,
-    "timeMonth": 518,
-    "timeYear": 490,
+    "timeDay": 396,
+    "timeWeek": 413,
+    "timeMonth": 511,
+    "timeYear": 489,
     "dailyMinutesDown": {
+      "2024-02-09": 0,
       "2024-02-08": 109,
       "2024-02-07": 20,
       "2024-01-21": 36,
