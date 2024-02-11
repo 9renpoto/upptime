@@ -40,8 +40,8 @@ sites:
     url: https://www.pinterest.jp/9renpoto/
   - name: instagram
     url: https://www.instagram.com/9renpoto/
-  # - name: x
-  #   url: https://x.com/9renpoto
+  - name: x
+    url: https://x.com/9renpoto
 
 status-website:
   cname: status.9renpoto.win
