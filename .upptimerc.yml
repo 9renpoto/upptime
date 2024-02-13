@@ -40,6 +40,8 @@ sites:
     url: https://www.pinterest.jp/9renpoto/
   - name: instagram
     url: https://www.instagram.com/9renpoto/
+  - name: tumber
+    url: https://www.tumblr.com/blog/9renpoto
   # - name: x
   #   url: https://x.com/9renpoto
 
