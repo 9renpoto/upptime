@@ -51,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "github",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -339,7 +339,7 @@
     "time": 495,
     "timeDay": 456,
     "timeWeek": 545,
-    "timeMonth": 508,
+    "timeMonth": 505,
     "timeYear": 495,
     "dailyMinutesDown": {}
   },
@@ -369,15 +369,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
     "status": "up",
-    "uptime": "68.18%",
+    "uptime": "68.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.54%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "90.63%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "90.75%",
     "time": 463,
-    "timeDay": 388,
+    "timeDay": 425,
     "timeWeek": 414,
-    "timeMonth": 495,
+    "timeMonth": 497,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2024-02-09": 18,
@@ -407,5 +407,23 @@
       "2023-08-19": 22,
       "2023-08-18": 17
     }
+  },
+  {
+    "name": "tumber",
+    "url": "https://www.tumblr.com/blog/9renpoto",
+    "icon": "https://icons.duckduckgo.com/ip3/www.tumblr.com.ico",
+    "slug": "tumber",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
