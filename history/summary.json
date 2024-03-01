@@ -129,16 +129,16 @@
     "url": "https://profile.codersrank.io/user/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/profile.codersrank.io.ico",
     "slug": "coderank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "49.89%",
-    "uptimeWeek": "65.96%",
-    "uptimeMonth": "92.17%",
+    "uptimeDay": "49.86%",
+    "uptimeWeek": "66.13%",
+    "uptimeMonth": "92.21%",
     "uptimeYear": "99.35%",
     "time": 1017,
-    "timeDay": 692,
+    "timeDay": 689,
     "timeWeek": 721,
-    "timeMonth": 741,
+    "timeMonth": 740,
     "timeYear": 967,
     "dailyMinutesDown": {
       "2024-03-01": 272,
@@ -147,7 +147,7 @@
       "2024-02-27": 674,
       "2024-02-26": 572,
       "2024-02-25": 566,
-      "2024-02-24": 34
+      "2024-02-24": 16
     }
   },
   {
@@ -331,18 +331,20 @@
     "url": "https://www.threads.net/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 323,
-    "timeWeek": 445,
-    "timeMonth": 522,
-    "timeYear": 494,
-    "dailyMinutesDown": {}
+    "time": 492,
+    "timeDay": 310,
+    "timeWeek": 431,
+    "timeMonth": 516,
+    "timeYear": 492,
+    "dailyMinutesDown": {
+      "2024-03-01": 1
+    }
   },
   {
     "name": "pinterest",
