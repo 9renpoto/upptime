@@ -42,8 +42,8 @@ sites:
     url: https://www.instagram.com/9renpoto/
   - name: tumber
     url: https://www.tumblr.com/9renpoto
-  # - name: x
-  #   url: https://x.com/9renpoto
+  - name: x
+    url: https://x.com/9renpoto
 
 status-website:
   cname: status.9renpoto.win
