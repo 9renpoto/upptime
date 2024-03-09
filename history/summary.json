@@ -130,17 +130,17 @@
     "slug": "coderank",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "91.20%",
-    "uptimeWeek": "89.16%",
-    "uptimeMonth": "93.68%",
+    "uptimeDay": "93.42%",
+    "uptimeWeek": "89.26%",
+    "uptimeMonth": "93.67%",
     "uptimeYear": "99.47%",
     "time": 951,
-    "timeDay": 735,
-    "timeWeek": 731,
+    "timeDay": 738,
+    "timeWeek": 732,
     "timeMonth": 733,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2024-03-09": 34,
+      "2024-03-09": 23,
       "2024-03-08": 178,
       "2024-03-07": 262,
       "2024-03-06": 223,
@@ -148,7 +148,7 @@
       "2024-03-04": 226,
       "2024-03-01": 493,
       "2024-02-29": 630,
-      "2024-02-28": 554
+      "2024-02-28": 571
     }
   },
   {
@@ -332,18 +332,20 @@
     "url": "https://www.threads.net/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 0,
-    "timeWeek": 564,
-    "timeMonth": 519,
-    "timeYear": 504,
-    "dailyMinutesDown": {}
+    "time": 502,
+    "timeDay": 234,
+    "timeWeek": 487,
+    "timeMonth": 513,
+    "timeYear": 502,
+    "dailyMinutesDown": {
+      "2024-03-09": 0
+    }
   },
   {
     "name": "pinterest",
@@ -371,7 +373,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
     "status": "up",
-    "uptime": "82.23%",
+    "uptime": "82.24%",
     "uptimeDay": "97.92%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.45%",
@@ -379,7 +381,7 @@
     "time": 460,
     "timeDay": 550,
     "timeWeek": 479,
-    "timeMonth": 442,
+    "timeMonth": 443,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2024-03-09": 30,
@@ -454,7 +456,7 @@
     "timeMonth": 232,
     "timeYear": 1760,
     "dailyMinutesDown": {
-      "2024-03-09": 767,
+      "2024-03-09": 815,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
