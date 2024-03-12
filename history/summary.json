@@ -128,15 +128,15 @@
     "url": "https://profile.codersrank.io/user/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/profile.codersrank.io.ico",
     "slug": "coderank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "93.53%",
+    "uptimeDay": "93.51%",
     "uptimeWeek": "89.95%",
-    "uptimeMonth": "93.83%",
+    "uptimeMonth": "93.88%",
     "uptimeYear": "99.49%",
-    "time": 925,
-    "timeDay": 757,
-    "timeWeek": 740,
+    "time": 924,
+    "timeDay": 752,
+    "timeWeek": 739,
     "timeMonth": 735,
     "timeYear": 886,
     "dailyMinutesDown": {
@@ -151,7 +151,7 @@
       "2024-03-04": 226,
       "2024-03-01": 493,
       "2024-02-29": 630,
-      "2024-02-28": 168
+      "2024-02-28": 148
     }
   },
   {
@@ -374,7 +374,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
     "status": "up",
-    "uptime": "83.58%",
+    "uptime": "83.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.36%",
@@ -459,7 +459,7 @@
     "timeMonth": 233,
     "timeYear": 1742,
     "dailyMinutesDown": {
-      "2024-03-12": 1193,
+      "2024-03-12": 1212,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
