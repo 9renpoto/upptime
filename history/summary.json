@@ -130,17 +130,17 @@
     "slug": "coderank",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "76.22%",
-    "uptimeWeek": "88.39%",
-    "uptimeMonth": "94.01%",
+    "uptimeDay": "75.60%",
+    "uptimeWeek": "88.34%",
+    "uptimeMonth": "94.03%",
     "uptimeYear": "99.50%",
     "time": 928,
-    "timeDay": 760,
+    "timeDay": 755,
     "timeWeek": 744,
     "timeMonth": 737,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2024-03-13": 218,
+      "2024-03-13": 227,
       "2024-03-12": 124,
       "2024-03-11": 122,
       "2024-03-10": 55,
@@ -151,7 +151,7 @@
       "2024-03-05": 175,
       "2024-03-04": 226,
       "2024-03-01": 493,
-      "2024-02-29": 468
+      "2024-02-29": 450
     }
   },
   {
@@ -374,7 +374,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
     "status": "up",
-    "uptime": "83.72%",
+    "uptime": "83.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.36%",
@@ -459,7 +459,7 @@
     "timeMonth": 238,
     "timeYear": 1736,
     "dailyMinutesDown": {
-      "2024-03-13": 592,
+      "2024-03-13": 650,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
