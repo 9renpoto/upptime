@@ -12,7 +12,7 @@
     "uptimeYear": "99.55%",
     "time": 1109,
     "timeDay": 2092,
-    "timeWeek": 1592,
+    "timeWeek": 1791,
     "timeMonth": 1273,
     "timeYear": 1567,
     "dailyMinutesDown": {
@@ -36,7 +36,7 @@
     "uptimeYear": "99.37%",
     "time": 152,
     "timeDay": 146,
-    "timeWeek": 238,
+    "timeWeek": 206,
     "timeMonth": 290,
     "timeYear": 163,
     "dailyMinutesDown": {
@@ -58,7 +58,7 @@
     "uptimeYear": "96.44%",
     "time": 1139,
     "timeDay": 510,
-    "timeWeek": 638,
+    "timeWeek": 689,
     "timeMonth": 890,
     "timeYear": 1057,
     "dailyMinutesDown": {
@@ -91,7 +91,7 @@
     "uptimeYear": "99.98%",
     "time": 553,
     "timeDay": 114,
-    "timeWeek": 246,
+    "timeWeek": 185,
     "timeMonth": 289,
     "timeYear": 478,
     "dailyMinutesDown": {
@@ -111,7 +111,7 @@
     "uptimeYear": "99.97%",
     "time": 572,
     "timeDay": 195,
-    "timeWeek": 379,
+    "timeWeek": 361,
     "timeMonth": 429,
     "timeYear": 571,
     "dailyMinutesDown": {
@@ -135,8 +135,8 @@
     "uptimeYear": "99.49%",
     "time": 975,
     "timeDay": 1220,
-    "timeWeek": 1106,
-    "timeMonth": 1197,
+    "timeWeek": 1126,
+    "timeMonth": 1198,
     "timeYear": 947,
     "dailyMinutesDown": {
       "2024-03-24": 196,
@@ -168,7 +168,7 @@
     "uptimeYear": "99.97%",
     "time": 671,
     "timeDay": 555,
-    "timeWeek": 654,
+    "timeWeek": 607,
     "timeMonth": 693,
     "timeYear": 671,
     "dailyMinutesDown": {
@@ -189,7 +189,7 @@
     "uptimeYear": "100.00%",
     "time": 896,
     "timeDay": 709,
-    "timeWeek": 920,
+    "timeWeek": 935,
     "timeMonth": 966,
     "timeYear": 896,
     "dailyMinutesDown": {}
@@ -207,7 +207,7 @@
     "uptimeYear": "99.97%",
     "time": 621,
     "timeDay": 481,
-    "timeWeek": 562,
+    "timeWeek": 558,
     "timeMonth": 656,
     "timeYear": 621,
     "dailyMinutesDown": {
@@ -227,7 +227,7 @@
     "uptimeYear": "99.96%",
     "time": 1581,
     "timeDay": 1447,
-    "timeWeek": 1569,
+    "timeWeek": 1515,
     "timeMonth": 1565,
     "timeYear": 1581,
     "dailyMinutesDown": {
@@ -248,7 +248,7 @@
     "uptimeYear": "99.98%",
     "time": 309,
     "timeDay": 225,
-    "timeWeek": 225,
+    "timeWeek": 228,
     "timeMonth": 261,
     "timeYear": 314,
     "dailyMinutesDown": {
@@ -269,7 +269,7 @@
     "uptimeYear": "100.00%",
     "time": 174,
     "timeDay": 88,
-    "timeWeek": 97,
+    "timeWeek": 92,
     "timeMonth": 116,
     "timeYear": 181,
     "dailyMinutesDown": {}
@@ -287,7 +287,7 @@
     "uptimeYear": "99.98%",
     "time": 2122,
     "timeDay": 1602,
-    "timeWeek": 2000,
+    "timeWeek": 1999,
     "timeMonth": 2073,
     "timeYear": 2122,
     "dailyMinutesDown": {
@@ -308,7 +308,7 @@
     "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 309,
-    "timeWeek": 215,
+    "timeWeek": 227,
     "timeMonth": 206,
     "timeYear": 187,
     "dailyMinutesDown": {}
@@ -326,7 +326,7 @@
     "uptimeYear": "100.00%",
     "time": 375,
     "timeDay": 482,
-    "timeWeek": 416,
+    "timeWeek": 359,
     "timeMonth": 366,
     "timeYear": 391,
     "dailyMinutesDown": {}
@@ -336,19 +336,19 @@
     "url": "https://www.threads.net/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
-    "status": "up",
+    "status": "down",
     "uptime": "97.65%",
-    "uptimeDay": "86.90%",
-    "uptimeWeek": "73.44%",
-    "uptimeMonth": "92.45%",
+    "uptimeDay": "87.61%",
+    "uptimeWeek": "73.54%",
+    "uptimeMonth": "92.48%",
     "uptimeYear": "97.65%",
     "time": 469,
-    "timeDay": 505,
-    "timeWeek": 470,
+    "timeDay": 498,
+    "timeWeek": 469,
     "timeMonth": 462,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2024-04-09": 188,
+      "2024-04-09": 178,
       "2024-04-08": 407,
       "2024-04-07": 832,
       "2024-04-06": 756,
@@ -485,7 +485,7 @@
     "timeMonth": 243,
     "timeYear": 1595,
     "dailyMinutesDown": {
-      "2024-04-09": 1383,
+      "2024-04-09": 1412,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
