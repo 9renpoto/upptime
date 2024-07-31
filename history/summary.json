@@ -13,7 +13,7 @@
     "time": 1501,
     "timeDay": 418,
     "timeWeek": 718,
-    "timeMonth": 760,
+    "timeMonth": 769,
     "timeYear": 1597,
     "dailyMinutesDown": {
       "2024-06-04": 27,
@@ -35,7 +35,7 @@
     "time": 182,
     "timeDay": 397,
     "timeWeek": 337,
-    "timeMonth": 272,
+    "timeMonth": 271,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2024-06-04": 27,
@@ -59,7 +59,7 @@
     "time": 920,
     "timeDay": 373,
     "timeWeek": 360,
-    "timeMonth": 372,
+    "timeMonth": 373,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2023-09-02": 70,
@@ -92,7 +92,7 @@
     "time": 432,
     "timeDay": 171,
     "timeWeek": 261,
-    "timeMonth": 285,
+    "timeMonth": 290,
     "timeYear": 360,
     "dailyMinutesDown": {}
   },
@@ -101,18 +101,19 @@
     "url": "https://wakatime.com/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/wakatime.com.ico",
     "slug": "wakatime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 556,
+    "time": 557,
     "timeDay": 426,
     "timeWeek": 395,
     "timeMonth": 439,
     "timeYear": 596,
     "dailyMinutesDown": {
+      "2024-07-31": 0,
       "2024-07-23": 27,
       "2023-12-08": 24,
       "2023-12-06": 77,
@@ -167,7 +168,7 @@
     "time": 675,
     "timeDay": 665,
     "timeWeek": 676,
-    "timeMonth": 668,
+    "timeMonth": 671,
     "timeYear": 674,
     "dailyMinutesDown": {
       "2024-07-09": 138,
@@ -190,7 +191,7 @@
     "time": 888,
     "timeDay": 801,
     "timeWeek": 815,
-    "timeMonth": 846,
+    "timeMonth": 844,
     "timeYear": 888,
     "dailyMinutesDown": {}
   },
@@ -208,7 +209,7 @@
     "time": 630,
     "timeDay": 772,
     "timeWeek": 614,
-    "timeMonth": 672,
+    "timeMonth": 679,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2023-11-27": 120
@@ -228,7 +229,7 @@
     "time": 1585,
     "timeDay": 1796,
     "timeWeek": 1690,
-    "timeMonth": 1714,
+    "timeMonth": 1712,
     "timeYear": 1586,
     "dailyMinutesDown": {
       "2024-07-08": 102,
@@ -249,7 +250,7 @@
     "time": 296,
     "timeDay": 189,
     "timeWeek": 231,
-    "timeMonth": 223,
+    "timeMonth": 222,
     "timeYear": 232,
     "dailyMinutesDown": {}
   },
@@ -267,7 +268,7 @@
     "time": 169,
     "timeDay": 71,
     "timeWeek": 95,
-    "timeMonth": 136,
+    "timeMonth": 134,
     "timeYear": 171,
     "dailyMinutesDown": {}
   },
@@ -285,7 +286,7 @@
     "time": 2050,
     "timeDay": 1356,
     "timeWeek": 1989,
-    "timeMonth": 1771,
+    "timeMonth": 1763,
     "timeYear": 2029,
     "dailyMinutesDown": {
       "2024-07-17": 16,
@@ -308,7 +309,7 @@
     "time": 217,
     "timeDay": 161,
     "timeWeek": 264,
-    "timeMonth": 264,
+    "timeMonth": 262,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -326,7 +327,7 @@
     "time": 410,
     "timeDay": 252,
     "timeWeek": 329,
-    "timeMonth": 526,
+    "timeMonth": 521,
     "timeYear": 439,
     "dailyMinutesDown": {}
   },
@@ -339,12 +340,12 @@
     "uptime": "84.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
-    "uptimeMonth": "90.17%",
+    "uptimeMonth": "86.99%",
     "uptimeYear": "84.33%",
     "time": 481,
     "timeDay": 517,
     "timeWeek": 495,
-    "timeMonth": 546,
+    "timeMonth": 545,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2024-07-24": 36,
@@ -406,7 +407,7 @@
     "time": 920,
     "timeDay": 728,
     "timeWeek": 906,
-    "timeMonth": 947,
+    "timeMonth": 940,
     "timeYear": 898,
     "dailyMinutesDown": {
       "2023-12-28": 85
@@ -419,14 +420,14 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "90.50%",
+    "uptimeDay": "90.98%",
     "uptimeWeek": "84.20%",
     "uptimeMonth": "93.30%",
     "uptimeYear": "99.03%",
     "time": 498,
-    "timeDay": 638,
+    "timeDay": 662,
     "timeWeek": 502,
-    "timeMonth": 524,
+    "timeMonth": 527,
     "timeYear": 506,
     "dailyMinutesDown": {
       "2024-07-30": 130,
@@ -467,7 +468,7 @@
     "time": 841,
     "timeDay": 655,
     "timeWeek": 716,
-    "timeMonth": 902,
+    "timeMonth": 893,
     "timeYear": 841,
     "dailyMinutesDown": {}
   }
