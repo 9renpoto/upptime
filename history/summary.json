@@ -228,19 +228,19 @@
     "url": "https://gitlab.com/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.com.ico",
     "slug": "gitlab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 156,
-    "timeWeek": 228,
+    "timeDay": 174,
+    "timeWeek": 226,
     "timeMonth": 216,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2024-09-03": 0
+      "2024-09-03": 12
     }
   },
   {
