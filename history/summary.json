@@ -461,17 +461,15 @@
     "slug": "tumber",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 848,
     "timeDay": 491,
     "timeWeek": 771,
     "timeMonth": 903,
     "timeYear": 848,
-    "dailyMinutesDown": {
-      "2024-09-04": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
