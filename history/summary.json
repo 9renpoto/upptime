@@ -470,19 +470,19 @@
     "url": "https://www.tumblr.com/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.tumblr.com.ico",
     "slug": "tumber",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 849,
-    "timeDay": 431,
-    "timeWeek": 1056,
-    "timeMonth": 825,
-    "timeYear": 849,
+    "time": 848,
+    "timeDay": 498,
+    "timeWeek": 1009,
+    "timeMonth": 820,
+    "timeYear": 848,
     "dailyMinutesDown": {
-      "2024-09-28": 1
+      "2024-09-28": 9
     }
   }
 ]
