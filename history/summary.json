@@ -324,11 +324,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
     "status": "up",
-    "uptime": "87.88%",
+    "uptime": "87.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "87.88%",
+    "uptimeYear": "87.89%",
     "time": 496,
     "timeDay": 1086,
     "timeWeek": 876,
@@ -417,18 +417,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
     "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "94.87%",
-    "uptimeMonth": "97.31%",
-    "uptimeYear": "99.33%",
+    "uptime": "99.32%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "94.96%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "99.32%",
     "time": 510,
     "timeDay": 621,
     "timeWeek": 593,
     "timeMonth": 556,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2024-09-28": 28,
+      "2024-09-28": 19,
       "2024-09-27": 90,
       "2024-09-26": 73,
       "2024-09-25": 23,
@@ -462,7 +462,7 @@
       "2024-07-29": 171,
       "2024-07-28": 265,
       "2024-07-27": 220,
-      "2024-07-26": 128
+      "2024-07-26": 149
     }
   },
   {
@@ -470,17 +470,19 @@
     "url": "https://www.tumblr.com/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.tumblr.com.ico",
     "slug": "tumber",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 853,
-    "timeDay": 805,
-    "timeWeek": 1199,
-    "timeMonth": 849,
-    "timeYear": 853,
-    "dailyMinutesDown": {}
+    "time": 849,
+    "timeDay": 431,
+    "timeWeek": 1056,
+    "timeMonth": 825,
+    "timeYear": 849,
+    "dailyMinutesDown": {
+      "2024-09-28": 1
+    }
   }
 ]
