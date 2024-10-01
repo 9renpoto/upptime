@@ -170,12 +170,12 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 887,
     "timeDay": 924,
     "timeWeek": 883,
-    "timeMonth": 841,
+    "timeMonth": 833,
     "timeYear": 887,
     "dailyMinutesDown": {
       "2024-09-01": 18
@@ -322,19 +322,19 @@
     "url": "https://www.threads.net/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
-    "status": "up",
-    "uptime": "88.01%",
-    "uptimeDay": "97.26%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "88.01%",
-    "time": 509,
-    "timeDay": 916,
-    "timeWeek": 903,
-    "timeMonth": 789,
-    "timeYear": 509,
+    "status": "down",
+    "uptime": "88.02%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "88.02%",
+    "time": 510,
+    "timeDay": 924,
+    "timeWeek": 904,
+    "timeMonth": 790,
+    "timeYear": 510,
     "dailyMinutesDown": {
-      "2024-10-01": 39,
+      "2024-10-01": 40,
       "2024-09-30": 90,
       "2024-09-29": 36,
       "2024-09-20": 20,
@@ -390,7 +390,7 @@
       "2024-04-09": 204,
       "2024-04-08": 407,
       "2024-04-07": 832,
-      "2024-04-06": 86
+      "2024-04-06": 68
     }
   },
   {
@@ -420,17 +420,17 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "94.54%",
-    "uptimeWeek": "93.82%",
-    "uptimeMonth": "96.46%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "93.91%",
+    "uptimeMonth": "96.48%",
     "uptimeYear": "99.33%",
     "time": 515,
-    "timeDay": 632,
+    "timeDay": 626,
     "timeWeek": 620,
     "timeMonth": 576,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2024-10-01": 79,
+      "2024-10-01": 70,
       "2024-09-30": 23,
       "2024-09-29": 240,
       "2024-09-28": 57,
@@ -465,7 +465,8 @@
       "2024-07-31": 134,
       "2024-07-30": 130,
       "2024-07-29": 171,
-      "2024-07-28": 265
+      "2024-07-28": 265,
+      "2024-07-27": 22
     }
   },
   {
