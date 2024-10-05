@@ -329,7 +329,7 @@
     "uptimeMonth": "99.30%",
     "uptimeYear": "88.19%",
     "time": 514,
-    "timeDay": 666,
+    "timeDay": 667,
     "timeWeek": 822,
     "timeMonth": 765,
     "timeYear": 514,
@@ -420,17 +420,17 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "80.47%",
-    "uptimeWeek": "87.44%",
-    "uptimeMonth": "94.48%",
+    "uptimeDay": "81.92%",
+    "uptimeWeek": "87.52%",
+    "uptimeMonth": "94.50%",
     "uptimeYear": "99.30%",
     "time": 522,
-    "timeDay": 644,
-    "timeWeek": 655,
+    "timeDay": 642,
+    "timeWeek": 656,
     "timeMonth": 595,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2024-10-04": 272,
+      "2024-10-04": 263,
       "2024-10-03": 165,
       "2024-10-02": 417,
       "2024-10-01": 95,
@@ -462,7 +462,8 @@
       "2024-08-19": 42,
       "2024-08-18": 27,
       "2024-08-17": 17,
-      "2024-08-12": 47
+      "2024-08-12": 47,
+      "2024-08-10": 17
     }
   },
   {
@@ -479,7 +480,7 @@
     "time": 847,
     "timeDay": 596,
     "timeWeek": 715,
-    "timeMonth": 827,
+    "timeMonth": 836,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2024-09-29": 15
