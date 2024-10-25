@@ -406,10 +406,10 @@
     "url": "https://www.pinterest.jp/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pinterest.jp.ico",
     "slug": "pinterest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 906,
@@ -418,6 +418,7 @@
     "timeMonth": 1063,
     "timeYear": 911,
     "dailyMinutesDown": {
+      "2024-10-25": 1,
       "2023-12-28": 85
     }
   },
@@ -428,9 +429,9 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "94.97%",
-    "uptimeWeek": "94.01%",
-    "uptimeMonth": "93.50%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "94.11%",
+    "uptimeMonth": "93.44%",
     "uptimeYear": "99.33%",
     "time": 526,
     "timeDay": 517,
@@ -438,7 +439,7 @@
     "timeMonth": 583,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2024-10-25": 72,
+      "2024-10-25": 62,
       "2024-10-24": 77,
       "2024-10-23": 54,
       "2024-10-22": 95,
@@ -461,7 +462,7 @@
       "2024-10-05": 262,
       "2024-10-04": 263,
       "2024-10-03": 165,
-      "2024-10-02": 198
+      "2024-10-02": 231
     }
   },
   {
