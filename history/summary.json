@@ -86,9 +86,9 @@
     "url": "https://wakatime.com/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/wakatime.com.ico",
     "slug": "wakatime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
@@ -98,6 +98,7 @@
     "timeMonth": 459,
     "timeYear": 627,
     "dailyMinutesDown": {
+      "2024-11-02": 0,
       "2024-10-06": 33,
       "2024-07-31": 22,
       "2024-07-23": 27,
@@ -332,7 +333,7 @@
     "time": 519,
     "timeDay": 710,
     "timeWeek": 525,
-    "timeMonth": 547,
+    "timeMonth": 546,
     "timeYear": 519,
     "dailyMinutesDown": {
       "2024-11-02": 20,
@@ -395,17 +396,17 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "95.14%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "93.72%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "95.95%",
+    "uptimeMonth": "93.71%",
     "uptimeYear": "99.37%",
     "time": 526,
-    "timeDay": 510,
+    "timeDay": 523,
     "timeWeek": 507,
     "timeMonth": 556,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2024-11-02": 52,
+      "2024-11-02": 39,
       "2024-11-01": 127,
       "2024-10-31": 61,
       "2024-10-30": 77,
@@ -432,7 +433,8 @@
       "2024-10-08": 41,
       "2024-10-07": 258,
       "2024-10-06": 255,
-      "2024-10-05": 262
+      "2024-10-05": 262,
+      "2024-10-04": 17
     }
   },
   {
