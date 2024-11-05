@@ -325,17 +325,16 @@
     "slug": "threads",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "95.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "95.87%",
     "uptimeYear": "99.42%",
     "time": 519,
     "timeDay": 389,
-    "timeWeek": 530,
+    "timeWeek": 534,
     "timeMonth": 537,
     "timeYear": 519,
     "dailyMinutesDown": {
-      "2024-11-04": 6,
       "2024-11-02": 20,
       "2024-10-30": 100,
       "2024-10-29": 100,
@@ -365,7 +364,7 @@
       "2024-08-16": 31,
       "2024-08-14": 41,
       "2024-08-12": 47,
-      "2024-08-10": 58
+      "2024-08-10": 78
     }
   },
   {
@@ -401,7 +400,7 @@
     "uptimeMonth": "93.78%",
     "uptimeYear": "99.38%",
     "time": 526,
-    "timeDay": 551,
+    "timeDay": 573,
     "timeWeek": 517,
     "timeMonth": 542,
     "timeYear": 529,
