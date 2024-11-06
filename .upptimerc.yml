@@ -44,7 +44,6 @@ sites:
     url: https://www.tumblr.com/9renpoto
 
 status-website:
-  cname: status.9renpoto.win
   baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
