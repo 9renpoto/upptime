@@ -317,18 +317,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
     "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.46%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "99.46%",
     "time": 516,
     "timeDay": 456,
     "timeWeek": 485,
     "timeMonth": 486,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2024-12-13": 68,
+      "2024-12-13": 58,
       "2024-12-12": 25,
       "2024-12-09": 42,
       "2024-12-05": 43,
@@ -359,7 +359,8 @@
       "2024-10-05": 15,
       "2024-10-04": 88,
       "2024-10-01": 39,
-      "2024-09-30": 90
+      "2024-09-30": 90,
+      "2024-09-29": 36
     }
   },
   {
@@ -395,8 +396,8 @@
     "uptimeMonth": "93.63%",
     "uptimeYear": "99.44%",
     "time": 517,
-    "timeDay": 428,
-    "timeWeek": 486,
+    "timeDay": 431,
+    "timeWeek": 487,
     "timeMonth": 482,
     "timeYear": 519,
     "dailyMinutesDown": {
