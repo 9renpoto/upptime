@@ -2,6 +2,10 @@
 owner: 9renpoto # Your GitHub username
 repo: upptime # Your GitHub repository name
 
+commitMessages:
+  commitAuthorName: "Umeno Keisuke"
+  commitAuthorEmail: "9renpoto+upptime@gmail.com"
+
 # Add your sites here
 sites:
   - name: blog
