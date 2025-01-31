@@ -147,9 +147,9 @@
     "slug": "lapras",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 681,
     "timeDay": 631,
@@ -157,7 +157,6 @@
     "timeMonth": 689,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2025-01-31": 9,
       "2024-07-09": 138,
       "2024-07-08": 74
     }
@@ -395,19 +394,19 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "89.90%",
-    "uptimeWeek": "94.84%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "89.86%",
+    "uptimeWeek": "94.83%",
     "uptimeMonth": "96.70%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 510,
-    "timeDay": 462,
-    "timeWeek": 489,
-    "timeMonth": 468,
+    "timeDay": 454,
+    "timeWeek": 487,
+    "timeMonth": 467,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2025-01-31": 145,
+      "2025-01-31": 146,
       "2025-01-30": 175,
       "2025-01-29": 82,
       "2025-01-28": 27,
@@ -446,7 +445,7 @@
       "2024-12-18": 91,
       "2024-12-17": 58,
       "2024-12-16": 43,
-      "2024-12-15": 63
+      "2024-12-15": 25
     }
   },
   {
