@@ -397,17 +397,17 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "93.19%",
-    "uptimeWeek": "90.81%",
-    "uptimeMonth": "95.88%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "90.93%",
+    "uptimeMonth": "95.91%",
     "uptimeYear": "99.49%",
     "time": 508,
-    "timeDay": 455,
-    "timeWeek": 437,
+    "timeDay": 461,
+    "timeWeek": 439,
     "timeMonth": 462,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2025-02-05": 81,
+      "2025-02-05": 69,
       "2025-02-04": 142,
       "2025-02-03": 93,
       "2025-02-02": 181,
@@ -443,7 +443,7 @@
       "2024-12-28": 91,
       "2024-12-27": 132,
       "2024-12-26": 133,
-      "2024-12-25": 71
+      "2024-12-25": 93
     }
   },
   {
