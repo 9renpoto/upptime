@@ -287,18 +287,16 @@
     "slug": "bluesky",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
     "timeDay": 363,
     "timeWeek": 272,
     "timeMonth": 246,
     "timeYear": 242,
-    "dailyMinutesDown": {
-      "2025-02-21": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "facebook",
@@ -397,19 +395,19 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "93.93%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "92.98%",
+    "uptimeWeek": "93.92%",
     "uptimeMonth": "94.90%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 505,
-    "timeDay": 454,
-    "timeWeek": 468,
+    "timeDay": 442,
+    "timeWeek": 466,
     "timeMonth": 463,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2025-02-21": 99,
+      "2025-02-21": 100,
       "2025-02-20": 215,
       "2025-02-19": 27,
       "2025-02-18": 55,
@@ -444,7 +442,7 @@
       "2025-01-17": 70,
       "2025-01-15": 21,
       "2025-01-13": 77,
-      "2025-01-12": 50
+      "2025-01-12": 16
     }
   },
   {
