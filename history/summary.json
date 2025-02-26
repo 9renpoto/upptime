@@ -122,7 +122,7 @@
     "timeDay": 0,
     "timeWeek": 1107,
     "timeMonth": 1078,
-    "timeYear": 919,
+    "timeYear": 920,
     "dailyMinutesDown": {
       "2024-03-24": 196,
       "2024-03-14": 35,
@@ -323,18 +323,19 @@
     "url": "https://www.threads.net/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 520,
-    "timeDay": 0,
-    "timeWeek": 592,
-    "timeMonth": 600,
+    "timeDay": 363,
+    "timeWeek": 566,
+    "timeMonth": 594,
     "timeYear": 521,
     "dailyMinutesDown": {
+      "2025-02-26": 1,
       "2024-12-31": 19,
       "2024-12-26": 48,
       "2024-12-25": 27,
@@ -369,7 +370,7 @@
       "2024-10-24": 248,
       "2024-10-23": 233,
       "2024-10-22": 285,
-      "2024-10-21": 68
+      "2024-10-21": 41
     }
   },
   {
