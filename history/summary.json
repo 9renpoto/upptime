@@ -123,7 +123,7 @@
     "timeDay": 964,
     "timeWeek": 1172,
     "timeMonth": 1107,
-    "timeYear": 1043,
+    "timeYear": 1042,
     "dailyMinutesDown": {
       "2024-03-24": 196,
       "2024-03-14": 35,
@@ -291,10 +291,10 @@
     "url": "https://bsky.app/profile/9renpoto.win",
     "icon": "https://icons.duckduckgo.com/ip3/bsky.app.ico",
     "slug": "bluesky",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
@@ -302,7 +302,9 @@
     "timeWeek": 237,
     "timeMonth": 251,
     "timeYear": 243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-06": 1
+    }
   },
   {
     "name": "facebook",
