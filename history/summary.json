@@ -123,15 +123,14 @@
     "timeDay": 933,
     "timeWeek": 1228,
     "timeMonth": 1101,
-    "timeYear": 1111,
+    "timeYear": 1112,
     "dailyMinutesDown": {
       "2024-03-24": 196,
       "2024-03-14": 35,
       "2024-03-13": 334,
       "2024-03-12": 124,
       "2024-03-11": 122,
-      "2024-03-10": 55,
-      "2024-03-09": 85
+      "2024-03-10": 55
     }
   },
   {
@@ -410,17 +409,18 @@
     "slug": "instagram",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "54.19%",
-    "uptimeWeek": "80.08%",
-    "uptimeMonth": "95.42%",
+    "uptimeDay": "54.12%",
+    "uptimeWeek": "80.04%",
+    "uptimeMonth": "95.41%",
     "uptimeYear": "99.62%",
     "time": 508,
-    "timeDay": 658,
+    "timeDay": 662,
     "timeWeek": 549,
     "timeMonth": 499,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2025-03-08": 659,
+      "2025-03-09": 1,
+      "2025-03-08": 662,
       "2025-03-07": 494,
       "2025-03-06": 405,
       "2025-03-05": 457
