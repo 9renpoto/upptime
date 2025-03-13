@@ -123,7 +123,7 @@
     "timeDay": 848,
     "timeWeek": 1088,
     "timeMonth": 1112,
-    "timeYear": 1252,
+    "timeYear": 1255,
     "dailyMinutesDown": {
       "2024-03-24": 196,
       "2024-03-14": 35
@@ -191,18 +191,20 @@
     "url": "https://youtrust.jp/users/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/youtrust.jp.ico",
     "slug": "youtrust",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 894,
-    "timeDay": 2671,
-    "timeWeek": 2235,
-    "timeMonth": 2351,
-    "timeYear": 1021,
-    "dailyMinutesDown": {}
+    "time": 896,
+    "timeDay": 2117,
+    "timeWeek": 2151,
+    "timeMonth": 2320,
+    "timeYear": 1023,
+    "dailyMinutesDown": {
+      "2025-03-13": 1
+    }
   },
   {
     "name": "wantedly",
@@ -410,12 +412,12 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "71.79%",
+    "uptimeDay": "71.91%",
     "uptimeWeek": "79.81%",
     "uptimeMonth": "95.35%",
     "uptimeYear": "99.61%",
     "time": 516,
-    "timeDay": 647,
+    "timeDay": 650,
     "timeWeek": 690,
     "timeMonth": 542,
     "timeYear": 516,
