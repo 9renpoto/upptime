@@ -191,19 +191,19 @@
     "url": "https://youtrust.jp/users/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/youtrust.jp.ico",
     "slug": "youtrust",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 900,
-    "timeDay": 1826,
-    "timeWeek": 2028,
-    "timeMonth": 2264,
-    "timeYear": 1026,
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 904,
+    "timeDay": 1963,
+    "timeWeek": 2072,
+    "timeMonth": 2273,
+    "timeYear": 1030,
     "dailyMinutesDown": {
-      "2025-03-13": 22
+      "2025-03-13": 33
     }
   },
   {
@@ -410,24 +410,24 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "73.16%",
-    "uptimeWeek": "79.75%",
-    "uptimeMonth": "95.34%",
+    "uptimeDay": "73.12%",
+    "uptimeWeek": "79.78%",
+    "uptimeMonth": "95.35%",
     "uptimeYear": "99.61%",
     "time": 515,
-    "timeDay": 623,
-    "timeWeek": 689,
+    "timeDay": 630,
+    "timeWeek": 688,
     "timeMonth": 542,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2025-03-13": 110,
+      "2025-03-13": 111,
       "2025-03-12": 385,
       "2025-03-11": 370,
       "2025-03-10": 319,
       "2025-03-09": 836,
-      "2025-03-08": 28
+      "2025-03-08": 24
     }
   },
   {
