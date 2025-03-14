@@ -410,24 +410,24 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "74.99%",
-    "uptimeWeek": "82.28%",
-    "uptimeMonth": "95.92%",
+    "uptimeDay": "74.95%",
+    "uptimeWeek": "82.36%",
+    "uptimeMonth": "95.94%",
     "uptimeYear": "99.66%",
     "time": 515,
-    "timeDay": 573,
+    "timeDay": 570,
     "timeWeek": 685,
     "timeMonth": 544,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2025-03-14": 21,
+      "2025-03-14": 22,
       "2025-03-13": 457,
       "2025-03-12": 385,
       "2025-03-11": 370,
       "2025-03-10": 319,
-      "2025-03-09": 238
+      "2025-03-09": 229
     }
   },
   {
