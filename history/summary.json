@@ -124,10 +124,9 @@
     "timeDay": 1056,
     "timeWeek": 1053,
     "timeMonth": 1108,
-    "timeYear": 1052,
+    "timeYear": 1055,
     "dailyMinutesDown": {
-      "2024-03-24": 196,
-      "2024-03-14": 35
+      "2024-03-24": 196
     }
   },
   {
@@ -413,13 +412,13 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "66.98%",
+    "uptimeDay": "68.27%",
     "uptimeWeek": "82.38%",
     "uptimeMonth": "95.95%",
     "uptimeYear": "99.66%",
     "time": 515,
     "timeDay": 565,
-    "timeWeek": 678,
+    "timeWeek": 679,
     "timeMonth": 543,
     "timeYear": 516,
     "dailyMinutesDown": {
