@@ -125,9 +125,7 @@
     "timeWeek": 1081,
     "timeMonth": 1112,
     "timeYear": 1073,
-    "dailyMinutesDown": {
-      "2024-03-24": 196
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "lapras",
@@ -427,13 +425,13 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "52.96%",
+    "uptimeDay": "53.40%",
     "uptimeWeek": "79.63%",
     "uptimeMonth": "95.31%",
     "uptimeYear": "99.61%",
     "time": 522,
-    "timeDay": 541,
-    "timeWeek": 581,
+    "timeDay": 548,
+    "timeWeek": 574,
     "timeMonth": 580,
     "timeYear": 524,
     "dailyMinutesDown": {
