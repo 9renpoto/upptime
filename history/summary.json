@@ -14,7 +14,7 @@
     "timeDay": 1869,
     "timeWeek": 881,
     "timeMonth": 684,
-    "timeYear": 1095,
+    "timeYear": 1097,
     "dailyMinutesDown": {
       "2025-01-24": 17,
       "2025-01-18": 32,
@@ -60,7 +60,7 @@
     "timeDay": 609,
     "timeWeek": 424,
     "timeMonth": 427,
-    "timeYear": 487,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2025-01-30": 18
     }
@@ -80,7 +80,7 @@
     "timeDay": 872,
     "timeWeek": 337,
     "timeMonth": 311,
-    "timeYear": 237,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -98,7 +98,7 @@
     "timeDay": 320,
     "timeWeek": 422,
     "timeMonth": 418,
-    "timeYear": 420,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2025-03-13": 7,
       "2025-02-27": 7,
@@ -124,7 +124,7 @@
     "timeDay": 1125,
     "timeWeek": 1031,
     "timeMonth": 1104,
-    "timeYear": 1082,
+    "timeYear": 1083,
     "dailyMinutesDown": {}
   },
   {
@@ -216,7 +216,7 @@
     "timeDay": 1860,
     "timeWeek": 2171,
     "timeMonth": 2136,
-    "timeYear": 1117,
+    "timeYear": 1119,
     "dailyMinutesDown": {
       "2025-03-13": 33
     }
@@ -236,7 +236,7 @@
     "timeDay": 1364,
     "timeWeek": 1451,
     "timeMonth": 1611,
-    "timeYear": 1665,
+    "timeYear": 1664,
     "dailyMinutesDown": {
       "2025-01-20": 67,
       "2024-12-11": 179,
@@ -294,7 +294,7 @@
     "timeDay": 955,
     "timeWeek": 738,
     "timeMonth": 1149,
-    "timeYear": 1512,
+    "timeYear": 1510,
     "dailyMinutesDown": {
       "2024-12-12": 30,
       "2024-07-17": 16,
@@ -338,7 +338,7 @@
     "timeDay": 1092,
     "timeWeek": 893,
     "timeMonth": 661,
-    "timeYear": 455,
+    "timeYear": 454,
     "dailyMinutesDown": {}
   },
   {
@@ -387,7 +387,7 @@
     "timeDay": 801,
     "timeWeek": 970,
     "timeMonth": 1130,
-    "timeYear": 1041,
+    "timeYear": 1042,
     "dailyMinutesDown": {
       "2024-10-29": 40
     }
@@ -397,19 +397,19 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "71.26%",
-    "uptimeWeek": "80.99%",
-    "uptimeMonth": "95.63%",
-    "uptimeYear": "99.64%",
+    "uptimeDay": "70.23%",
+    "uptimeWeek": "80.84%",
+    "uptimeMonth": "95.59%",
+    "uptimeYear": "99.63%",
     "time": 534,
-    "timeDay": 696,
-    "timeWeek": 702,
+    "timeDay": 702,
+    "timeWeek": 703,
     "timeMonth": 636,
-    "timeYear": 535,
+    "timeYear": 536,
     "dailyMinutesDown": {
-      "2025-04-02": 413,
+      "2025-04-02": 427,
       "2025-04-01": 472,
       "2025-03-31": 502,
       "2025-03-30": 470,
