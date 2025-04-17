@@ -202,8 +202,8 @@
     "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.33%",
-    "uptimeMonth": "94.55%",
+    "uptimeWeek": "76.20%",
+    "uptimeMonth": "94.52%",
     "uptimeYear": "99.54%",
     "time": 871,
     "timeDay": 0,
@@ -211,7 +211,7 @@
     "timeMonth": 927,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2025-04-17": 1273,
+      "2025-04-17": 1285,
       "2025-04-16": 1113,
       "2024-09-01": 18
     }
@@ -363,19 +363,19 @@
     "url": "https://www.threads.net/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "86.85%",
+    "uptimeDay": "86.80%",
     "uptimeWeek": "90.04%",
-    "uptimeMonth": "96.79%",
+    "uptimeMonth": "96.82%",
     "uptimeYear": "99.73%",
     "time": 544,
-    "timeDay": 487,
-    "timeWeek": 475,
+    "timeDay": 476,
+    "timeWeek": 473,
     "timeMonth": 542,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2025-04-17": 170,
+      "2025-04-17": 171,
       "2025-04-16": 144,
       "2025-04-15": 160,
       "2025-04-14": 169,
@@ -385,7 +385,7 @@
       "2025-04-10": 178,
       "2025-04-09": 84,
       "2025-04-08": 110,
-      "2025-04-07": 40
+      "2025-04-07": 28
     }
   },
   {
@@ -414,23 +414,23 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "76.32%",
-    "uptimeWeek": "84.53%",
-    "uptimeMonth": "96.44%",
-    "uptimeYear": "99.70%",
+    "uptimeDay": "76.26%",
+    "uptimeWeek": "84.62%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "99.71%",
     "time": 541,
-    "timeDay": 546,
-    "timeWeek": 570,
+    "timeDay": 541,
+    "timeWeek": 569,
     "timeMonth": 625,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2025-04-17": 311,
+      "2025-04-17": 312,
       "2025-04-16": 298,
       "2025-04-15": 307,
       "2025-04-14": 401,
-      "2025-04-13": 240
+      "2025-04-13": 230
     }
   },
   {
