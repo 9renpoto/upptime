@@ -200,10 +200,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/portfolio.forkwell.com.ico",
     "slug": "forkwell",
     "status": "down",
-    "uptime": "99.65%",
+    "uptime": "99.64%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.79%",
-    "uptimeMonth": "94.20%",
+    "uptimeWeek": "74.66%",
+    "uptimeMonth": "94.17%",
     "uptimeYear": "99.51%",
     "time": 870,
     "timeDay": 536,
@@ -211,7 +211,8 @@
     "timeMonth": 918,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2025-04-17": 1428,
+      "2025-04-18": 1,
+      "2025-04-17": 1440,
       "2025-04-16": 1113,
       "2024-09-01": 18
     }
