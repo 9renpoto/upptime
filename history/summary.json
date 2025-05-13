@@ -121,17 +121,17 @@
     "slug": "coderank",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "92.69%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.98%",
     "time": 1232,
     "timeDay": 1387,
     "timeWeek": 1136,
     "timeMonth": 1155,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2025-05-13": 49
+      "2025-05-13": 105
     }
   },
   {
@@ -353,25 +353,25 @@
     "url": "https://www.threads.net/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "93.51%",
-    "uptimeWeek": "82.38%",
-    "uptimeMonth": "95.95%",
+    "uptimeDay": "94.06%",
+    "uptimeWeek": "82.53%",
+    "uptimeMonth": "95.98%",
     "uptimeYear": "99.66%",
     "time": 615,
-    "timeDay": 778,
-    "timeWeek": 822,
+    "timeDay": 725,
+    "timeWeek": 821,
     "timeMonth": 750,
     "timeYear": 620,
     "dailyMinutesDown": {
-      "2025-05-13": 44,
+      "2025-05-13": 45,
       "2025-05-12": 275,
       "2025-05-11": 428,
       "2025-05-10": 386,
       "2025-05-09": 323,
       "2025-05-08": 224,
-      "2025-05-07": 103
+      "2025-05-07": 87
     }
   },
   {
@@ -400,23 +400,23 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "61.02%",
-    "uptimeWeek": "77.25%",
-    "uptimeMonth": "94.77%",
-    "uptimeYear": "99.56%",
+    "uptimeDay": "63.95%",
+    "uptimeWeek": "77.46%",
+    "uptimeMonth": "94.81%",
+    "uptimeYear": "99.57%",
     "time": 553,
-    "timeDay": 624,
-    "timeWeek": 668,
-    "timeMonth": 636,
+    "timeDay": 619,
+    "timeWeek": 667,
+    "timeMonth": 635,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2025-05-13": 396,
+      "2025-05-13": 397,
       "2025-05-12": 652,
       "2025-05-11": 652,
       "2025-05-10": 401,
-      "2025-05-09": 197
+      "2025-05-09": 175
     }
   },
   {
