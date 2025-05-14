@@ -122,8 +122,8 @@
     "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.36%",
-    "uptimeMonth": "95.71%",
+    "uptimeWeek": "81.28%",
+    "uptimeMonth": "95.69%",
     "uptimeYear": "99.64%",
     "time": 1252,
     "timeDay": 6276,
@@ -131,7 +131,7 @@
     "timeMonth": 1517,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2025-05-14": 1423,
+      "2025-05-14": 1432,
       "2025-05-13": 456
     }
   },
@@ -354,25 +354,25 @@
     "url": "https://www.threads.net/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "91.73%",
-    "uptimeWeek": "82.66%",
-    "uptimeMonth": "96.01%",
+    "uptimeDay": "91.69%",
+    "uptimeWeek": "82.77%",
+    "uptimeMonth": "96.04%",
     "uptimeYear": "99.67%",
     "time": 619,
-    "timeDay": 922,
-    "timeWeek": 833,
+    "timeDay": 893,
+    "timeWeek": 832,
     "timeMonth": 764,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2025-05-14": 119,
+      "2025-05-14": 120,
       "2025-05-13": 111,
       "2025-05-12": 275,
       "2025-05-11": 428,
       "2025-05-10": 386,
       "2025-05-09": 323,
-      "2025-05-08": 112
+      "2025-05-08": 100
     }
   },
   {
@@ -401,22 +401,22 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "44.51%",
-    "uptimeWeek": "76.09%",
-    "uptimeMonth": "94.50%",
+    "uptimeDay": "44.59%",
+    "uptimeWeek": "76.17%",
+    "uptimeMonth": "94.52%",
     "uptimeYear": "99.54%",
     "time": 554,
-    "timeDay": 726,
+    "timeDay": 722,
     "timeWeek": 668,
     "timeMonth": 644,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2025-05-14": 792,
+      "2025-05-14": 793,
       "2025-05-13": 545,
       "2025-05-12": 652,
-      "2025-05-11": 427
+      "2025-05-11": 418
     }
   },
   {
