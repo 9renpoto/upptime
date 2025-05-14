@@ -121,8 +121,8 @@
     "slug": "coderank",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "68.42%",
-    "uptimeWeek": "95.49%",
+    "uptimeDay": "68.31%",
+    "uptimeWeek": "95.47%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "99.91%",
     "time": 1240,
@@ -131,7 +131,8 @@
     "timeMonth": 1320,
     "timeYear": 1099,
     "dailyMinutesDown": {
-      "2025-05-13": 455
+      "2025-05-14": 1,
+      "2025-05-13": 456
     }
   },
   {
@@ -402,7 +403,7 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "62.21%",
+    "uptimeDay": "62.30%",
     "uptimeWeek": "77.72%",
     "uptimeMonth": "94.87%",
     "uptimeYear": "99.57%",
