@@ -122,8 +122,8 @@
     "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.92%",
-    "uptimeMonth": "93.77%",
+    "uptimeWeek": "72.69%",
+    "uptimeMonth": "93.72%",
     "uptimeYear": "99.48%",
     "time": 1252,
     "timeDay": 6276,
@@ -131,7 +131,7 @@
     "timeMonth": 1517,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2025-05-15": 834,
+      "2025-05-15": 857,
       "2025-05-14": 1440,
       "2025-05-13": 456
     }
@@ -355,25 +355,25 @@
     "url": "https://www.threads.net/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "89.60%",
-    "uptimeWeek": "82.55%",
-    "uptimeMonth": "95.98%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "89.54%",
+    "uptimeWeek": "82.70%",
+    "uptimeMonth": "96.02%",
     "uptimeYear": "99.67%",
     "time": 621,
-    "timeDay": 896,
-    "timeWeek": 844,
+    "timeDay": 883,
+    "timeWeek": 843,
     "timeMonth": 770,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-05-15": 114,
+      "2025-05-15": 115,
       "2025-05-14": 128,
       "2025-05-13": 111,
       "2025-05-12": 275,
       "2025-05-11": 428,
       "2025-05-10": 386,
-      "2025-05-09": 323
+      "2025-05-09": 308
     }
   },
   {
@@ -402,23 +402,23 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "48.72%",
-    "uptimeWeek": "74.01%",
-    "uptimeMonth": "94.02%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "49.37%",
+    "uptimeWeek": "74.13%",
+    "uptimeMonth": "94.05%",
     "uptimeYear": "99.50%",
     "time": 554,
-    "timeDay": 645,
+    "timeDay": 633,
     "timeWeek": 668,
     "timeMonth": 641,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2025-05-15": 408,
+      "2025-05-15": 409,
       "2025-05-14": 801,
       "2025-05-13": 545,
       "2025-05-12": 652,
-      "2025-05-11": 219
+      "2025-05-11": 206
     }
   },
   {
