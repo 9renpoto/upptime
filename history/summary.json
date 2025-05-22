@@ -115,34 +115,6 @@
     }
   },
   {
-    "name": "coderank",
-    "url": "https://profile.codersrank.io/user/9renpoto/",
-    "icon": "https://icons.duckduckgo.com/ip3/profile.codersrank.io.ico",
-    "slug": "coderank",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.67%",
-    "uptimeYear": "97.72%",
-    "time": 1329,
-    "timeDay": 3486,
-    "timeWeek": 5553,
-    "timeMonth": 2725,
-    "timeYear": 1216,
-    "dailyMinutesDown": {
-      "2025-05-21": 1436,
-      "2025-05-20": 1440,
-      "2025-05-19": 1440,
-      "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440,
-      "2025-05-15": 1440,
-      "2025-05-14": 1440,
-      "2025-05-13": 456
-    }
-  },
-  {
     "name": "lapras",
     "url": "https://lapras.com/public/PY86OSF",
     "icon": "https://icons.duckduckgo.com/ip3/lapras.com.ico",
@@ -371,8 +343,8 @@
     "uptimeYear": "99.71%",
     "time": 633,
     "timeDay": 1104,
-    "timeWeek": 843,
-    "timeMonth": 836,
+    "timeWeek": 840,
+    "timeMonth": 837,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2025-05-20": 125,
@@ -409,23 +381,23 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "69.48%",
-    "uptimeWeek": "74.43%",
-    "uptimeMonth": "94.12%",
+    "uptimeDay": "69.52%",
+    "uptimeWeek": "74.68%",
+    "uptimeMonth": "94.17%",
     "uptimeYear": "99.51%",
     "time": 558,
-    "timeDay": 527,
+    "timeDay": 533,
     "timeWeek": 630,
     "timeMonth": 656,
-    "timeYear": 558,
+    "timeYear": 559,
     "dailyMinutesDown": {
+      "2025-05-22": 34,
       "2025-05-21": 442,
       "2025-05-20": 642,
       "2025-05-19": 750,
-      "2025-05-18": 716,
-      "2025-05-17": 32
+      "2025-05-18": 689
     }
   },
   {
