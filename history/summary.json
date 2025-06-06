@@ -384,22 +384,22 @@
     "slug": "instagram",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "74.67%",
-    "uptimeWeek": "80.66%",
-    "uptimeMonth": "95.55%",
+    "uptimeDay": "74.08%",
+    "uptimeWeek": "80.76%",
+    "uptimeMonth": "95.57%",
     "uptimeYear": "99.63%",
     "time": 565,
-    "timeDay": 673,
-    "timeWeek": 680,
+    "timeDay": 665,
+    "timeWeek": 679,
     "timeMonth": 657,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2025-06-06": 227,
+      "2025-06-06": 236,
       "2025-06-05": 401,
       "2025-06-04": 445,
       "2025-06-03": 378,
       "2025-06-02": 269,
-      "2025-06-01": 232
+      "2025-06-01": 214
     }
   },
   {
