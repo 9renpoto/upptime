@@ -14,7 +14,7 @@
     "timeDay": 1157,
     "timeWeek": 573,
     "timeMonth": 700,
-    "timeYear": 995,
+    "timeYear": 996,
     "dailyMinutesDown": {
       "2025-01-24": 17,
       "2025-01-18": 32,
@@ -75,7 +75,7 @@
     "timeDay": 113,
     "timeWeek": 362,
     "timeMonth": 395,
-    "timeYear": 258,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2025-04-05": 7
     }
@@ -95,7 +95,7 @@
     "timeDay": 129,
     "timeWeek": 431,
     "timeMonth": 828,
-    "timeYear": 473,
+    "timeYear": 474,
     "dailyMinutesDown": {
       "2025-05-23": 16,
       "2025-05-08": 12,
@@ -196,7 +196,7 @@
     "timeDay": 1830,
     "timeWeek": 2426,
     "timeMonth": 2495,
-    "timeYear": 1428,
+    "timeYear": 1431,
     "dailyMinutesDown": {
       "2025-04-08": 41,
       "2025-03-13": 33
@@ -217,7 +217,7 @@
     "timeDay": 1250,
     "timeWeek": 1674,
     "timeMonth": 1559,
-    "timeYear": 1663,
+    "timeYear": 1665,
     "dailyMinutesDown": {
       "2025-01-20": 67,
       "2024-12-11": 179,
@@ -275,7 +275,7 @@
     "timeDay": 898,
     "timeWeek": 950,
     "timeMonth": 877,
-    "timeYear": 1341,
+    "timeYear": 1340,
     "dailyMinutesDown": {
       "2025-04-15": 38,
       "2024-12-12": 30,
@@ -321,7 +321,7 @@
     "timeDay": 262,
     "timeWeek": 762,
     "timeMonth": 622,
-    "timeYear": 491,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2025-05-19": 11
     }
@@ -383,23 +383,23 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "56.63%",
-    "uptimeWeek": "79.98%",
-    "uptimeMonth": "95.39%",
+    "uptimeDay": "57.37%",
+    "uptimeWeek": "80.14%",
+    "uptimeMonth": "95.43%",
     "uptimeYear": "99.62%",
     "time": 565,
-    "timeDay": 588,
-    "timeWeek": 645,
+    "timeDay": 596,
+    "timeWeek": 638,
     "timeMonth": 653,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2025-06-08": 599,
+      "2025-06-08": 600,
       "2025-06-07": 258,
       "2025-06-06": 432,
       "2025-06-05": 401,
-      "2025-06-04": 332
+      "2025-06-04": 315
     }
   },
   {
