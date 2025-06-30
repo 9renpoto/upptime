@@ -36,8 +36,6 @@ sites:
     url: https://www.pinterest.jp/9renpoto/
   - name: instagram
     url: https://www.instagram.com/9renpoto/
-  - name: tumber
-    url: https://www.tumblr.com/9renpoto
 
 status-website:
   baseUrl: /upptime
