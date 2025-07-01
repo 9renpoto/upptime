@@ -117,7 +117,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lapras.com.ico",
     "slug": "lapras",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -398,23 +398,23 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "70.25%",
-    "uptimeWeek": "74.50%",
-    "uptimeMonth": "94.13%",
+    "uptimeDay": "70.41%",
+    "uptimeWeek": "74.58%",
+    "uptimeMonth": "94.15%",
     "uptimeYear": "99.51%",
     "time": 574,
-    "timeDay": 616,
-    "timeWeek": 739,
+    "timeDay": 620,
+    "timeWeek": 738,
     "timeMonth": 650,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2025-07-01": 364,
+      "2025-07-01": 365,
       "2025-06-30": 526,
       "2025-06-29": 880,
       "2025-06-28": 657,
-      "2025-06-27": 146
+      "2025-06-27": 137
     }
   }
 ]
