@@ -281,8 +281,7 @@
     "dailyMinutesDown": {
       "2025-07-15": 117,
       "2025-04-15": 38,
-      "2024-12-12": 30,
-      "2024-07-17": 16
+      "2024-12-12": 30
     }
   },
   {
@@ -405,12 +404,12 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "44.56%",
+    "uptimeDay": "45.12%",
     "uptimeWeek": "74.87%",
     "uptimeMonth": "94.22%",
     "uptimeYear": "99.52%",
     "time": 579,
-    "timeDay": 604,
+    "timeDay": 606,
     "timeWeek": 633,
     "timeMonth": 679,
     "timeYear": 579,
