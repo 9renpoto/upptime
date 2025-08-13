@@ -5,21 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/9renpoto.win.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 990,
     "timeDay": 213,
     "timeWeek": 605,
     "timeMonth": 1118,
     "timeYear": 1017,
-    "dailyMinutesDown": {
-      "2025-01-24": 17,
-      "2025-01-18": 32,
-      "2024-11-18": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "slides",
@@ -84,29 +80,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakatime.com.ico",
     "slug": "wakatime",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.94%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 450,
     "timeDay": 371,
     "timeWeek": 366,
     "timeMonth": 337,
     "timeYear": 458,
-    "dailyMinutesDown": {
-      "2025-08-07": 41,
-      "2025-07-29": 116,
-      "2025-05-23": 16,
-      "2025-05-08": 12,
-      "2025-05-05": 10,
-      "2025-05-01": 11,
-      "2025-03-13": 7,
-      "2025-02-27": 7,
-      "2024-11-27": 57,
-      "2024-11-14": 31,
-      "2024-10-06": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "lapras",
@@ -412,23 +396,23 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "52.83%",
-    "uptimeWeek": "69.85%",
-    "uptimeMonth": "93.06%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "53.72%",
+    "uptimeWeek": "70.16%",
+    "uptimeMonth": "93.13%",
+    "uptimeYear": "99.43%",
     "time": 582,
-    "timeDay": 567,
+    "timeDay": 570,
     "timeWeek": 596,
     "timeMonth": 587,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2025-08-13": 332,
+      "2025-08-13": 333,
       "2025-08-12": 879,
       "2025-08-11": 724,
       "2025-08-10": 694,
-      "2025-08-09": 408
+      "2025-08-09": 376
     }
   }
 ]
