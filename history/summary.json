@@ -26,19 +26,19 @@
     "url": "https://slides.9renpoto.win",
     "icon": "https://icons.duckduckgo.com/ip3/slides.9renpoto.win.ico",
     "slug": "slides",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 466,
-    "timeWeek": 374,
-    "timeMonth": 649,
-    "timeYear": 320,
+    "time": 305,
+    "timeDay": 512,
+    "timeWeek": 397,
+    "timeMonth": 646,
+    "timeYear": 321,
     "dailyMinutesDown": {
-      "2025-08-27": 0
+      "2025-08-27": 16
     }
   },
   {
