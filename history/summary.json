@@ -182,18 +182,20 @@
     "url": "https://dev.to/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/dev.to.ico",
     "slug": "dev-to",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 71,
-    "timeWeek": 104,
-    "timeMonth": 264,
+    "timeDay": 117,
+    "timeWeek": 112,
+    "timeMonth": 261,
     "timeYear": 168,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-08": 1
+    }
   },
   {
     "name": "yamap",
