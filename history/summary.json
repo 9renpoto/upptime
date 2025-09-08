@@ -184,17 +184,17 @@
     "slug": "dev-to",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "48.08%",
-    "uptimeWeek": "92.58%",
-    "uptimeMonth": "98.29%",
-    "uptimeYear": "99.86%",
+    "uptimeDay": "42.58%",
+    "uptimeWeek": "91.80%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "99.84%",
     "time": 157,
     "timeDay": 117,
     "timeWeek": 112,
     "timeMonth": 261,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-09-08": 748
+      "2025-09-08": 827
     }
   },
   {
@@ -251,11 +251,11 @@
     "url": "https://www.facebook.com/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "facebook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 492,
     "timeDay": 695,
@@ -263,7 +263,7 @@
     "timeMonth": 490,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-09-08": 13,
+      "2025-09-08": 14,
       "2025-09-07": 9,
       "2025-09-01": 11,
       "2025-08-29": 10,
@@ -379,7 +379,7 @@
     "uptimeYear": "99.61%",
     "time": 582,
     "timeDay": 635,
-    "timeWeek": 632,
+    "timeWeek": 635,
     "timeMonth": 571,
     "timeYear": 583,
     "dailyMinutesDown": {
