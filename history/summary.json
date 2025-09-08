@@ -184,9 +184,9 @@
     "slug": "dev-to",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "13.25%",
-    "uptimeWeek": "87.61%",
-    "uptimeMonth": "97.15%",
+    "uptimeDay": "12.53%",
+    "uptimeWeek": "87.50%",
+    "uptimeMonth": "97.12%",
     "uptimeYear": "99.76%",
     "time": 157,
     "timeDay": 117,
@@ -194,7 +194,7 @@
     "timeMonth": 261,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-09-08": 1249
+      "2025-09-08": 1260
     }
   },
   {
@@ -275,19 +275,19 @@
     "url": "https://www.threads.net/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "96.12%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "99.73%",
     "time": 667,
-    "timeDay": 1306,
-    "timeWeek": 1019,
-    "timeMonth": 891,
+    "timeDay": 1155,
+    "timeWeek": 989,
+    "timeMonth": 884,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2025-09-08": 20,
+      "2025-09-08": 29,
       "2025-09-07": 40,
       "2025-09-06": 9,
       "2025-09-05": 15,
@@ -372,24 +372,24 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "86.54%",
-    "uptimeWeek": "80.12%",
-    "uptimeMonth": "95.43%",
+    "uptimeDay": "86.48%",
+    "uptimeWeek": "80.21%",
+    "uptimeMonth": "95.45%",
     "uptimeYear": "99.62%",
     "time": 582,
-    "timeDay": 567,
-    "timeWeek": 638,
+    "timeDay": 550,
+    "timeWeek": 637,
     "timeMonth": 566,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2025-09-08": 182,
+      "2025-09-08": 183,
       "2025-09-07": 92,
       "2025-09-06": 190,
       "2025-09-05": 599,
       "2025-09-04": 645,
-      "2025-09-03": 300
+      "2025-09-03": 290
     }
   }
 ]
