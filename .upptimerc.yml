@@ -20,8 +20,6 @@ sites:
     url: https://www.wantedly.com/id/keisuke_umeno
   - name: gitlab
     url: https://gitlab.com/9renpoto
-  - name: dev.to
-    url: https://dev.to/9renpoto
   - name: yamap
     url: https://yamap.com/users/2121389
   - name: bluesky
