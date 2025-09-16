@@ -70,7 +70,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.npmjs.com.ico",
     "slug": "npm",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -80,10 +80,7 @@
     "timeWeek": 512,
     "timeMonth": 328,
     "timeYear": 305,
-    "dailyMinutesDown": {
-      "2025-06-12": 7,
-      "2025-04-05": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "wakatime",
@@ -261,12 +258,12 @@
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.13%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.73%",
     "time": 669,
     "timeDay": 1427,
     "timeWeek": 824,
-    "timeMonth": 890,
+    "timeMonth": 889,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2025-09-14": 9,
@@ -357,22 +354,22 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "55.13%",
-    "uptimeWeek": "78.68%",
-    "uptimeMonth": "95.09%",
+    "uptimeDay": "56.75%",
+    "uptimeWeek": "78.79%",
+    "uptimeMonth": "95.12%",
     "uptimeYear": "99.59%",
     "time": 582,
-    "timeDay": 524,
-    "timeWeek": 549,
+    "timeDay": 528,
+    "timeWeek": 547,
     "timeMonth": 558,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2025-09-16": 424,
+      "2025-09-16": 426,
       "2025-09-15": 668,
       "2025-09-14": 573,
-      "2025-09-13": 496
+      "2025-09-13": 483
     }
   }
 ]
