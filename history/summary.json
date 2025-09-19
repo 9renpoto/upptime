@@ -259,18 +259,19 @@
     "url": "https://www.threads.net/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "96.04%",
-    "uptimeWeek": "99.26%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.25%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.74%",
     "time": 671,
-    "timeDay": 982,
-    "timeWeek": 944,
-    "timeMonth": 906,
+    "timeDay": 928,
+    "timeWeek": 915,
+    "timeMonth": 899,
     "timeYear": 676,
     "dailyMinutesDown": {
+      "2025-09-19": 1,
       "2025-09-18": 57,
       "2025-09-16": 9,
       "2025-09-14": 9,
@@ -328,7 +329,7 @@
       "2025-05-29": 9,
       "2025-05-26": 11,
       "2025-05-25": 22,
-      "2025-05-24": 65
+      "2025-05-24": 53
     }
   },
   {
@@ -359,23 +360,23 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "46.72%",
-    "uptimeWeek": "74.84%",
-    "uptimeMonth": "94.21%",
+    "uptimeDay": "47.89%",
+    "uptimeWeek": "74.92%",
+    "uptimeMonth": "94.23%",
     "uptimeYear": "99.52%",
     "time": 583,
-    "timeDay": 820,
-    "timeWeek": 593,
+    "timeDay": 784,
+    "timeWeek": 592,
     "timeMonth": 569,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2025-09-19": 254,
+      "2025-09-19": 255,
       "2025-09-18": 727,
       "2025-09-17": 735,
       "2025-09-16": 785,
-      "2025-09-15": 42
+      "2025-09-15": 33
     }
   }
 ]
