@@ -72,8 +72,8 @@
     "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.95%",
-    "uptimeMonth": "93.54%",
+    "uptimeWeek": "71.85%",
+    "uptimeMonth": "93.52%",
     "uptimeYear": "99.46%",
     "time": 286,
     "timeDay": 131,
@@ -81,7 +81,7 @@
     "timeMonth": 349,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2025-09-21": 809,
+      "2025-09-21": 818,
       "2025-09-20": 1440,
       "2025-09-19": 579,
       "2025-06-12": 7,
@@ -364,22 +364,22 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "41.41%",
-    "uptimeWeek": "75.10%",
-    "uptimeMonth": "94.27%",
-    "uptimeYear": "99.52%",
+    "uptimeDay": "41.39%",
+    "uptimeWeek": "75.27%",
+    "uptimeMonth": "94.31%",
+    "uptimeYear": "99.53%",
     "time": 584,
-    "timeDay": 680,
-    "timeWeek": 608,
-    "timeMonth": 579,
+    "timeDay": 695,
+    "timeWeek": 611,
+    "timeMonth": 580,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2025-09-21": 458,
+      "2025-09-21": 459,
       "2025-09-20": 733,
       "2025-09-19": 771,
-      "2025-09-18": 551
+      "2025-09-18": 533
     }
   }
 ]
