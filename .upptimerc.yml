@@ -10,8 +10,6 @@ sites:
     url: https://slides.9renpoto.win
   - name: github
     url: https://github.com/9renpoto
-  - name: npm
-    url: https://www.npmjs.com/~9renpoto
   - name: wakatime
     url: https://wakatime.com/@9renpoto
   - name: youtrust
