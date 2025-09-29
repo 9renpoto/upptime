@@ -342,22 +342,22 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "49.83%",
-    "uptimeWeek": "75.13%",
-    "uptimeMonth": "94.28%",
-    "uptimeYear": "99.52%",
+    "uptimeDay": "50.78%",
+    "uptimeWeek": "75.57%",
+    "uptimeMonth": "94.38%",
+    "uptimeYear": "99.53%",
     "time": 582,
-    "timeDay": 594,
-    "timeWeek": 528,
+    "timeDay": 580,
+    "timeWeek": 527,
     "timeMonth": 575,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-09-29": 596,
+      "2025-09-29": 597,
       "2025-09-28": 836,
       "2025-09-27": 767,
-      "2025-09-26": 312
+      "2025-09-26": 266
     }
   }
 ]
