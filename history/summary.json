@@ -126,17 +126,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wantedly.com.ico",
     "slug": "wantedly",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.93%",
     "time": 1651,
     "timeDay": 1986,
     "timeWeek": 2250,
     "timeMonth": 1984,
     "timeYear": 1638,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-30": 123,
+      "2025-01-20": 67,
+      "2024-12-11": 179
+    }
   },
   {
     "name": "gitlab",
@@ -144,7 +148,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.com.ico",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -337,24 +341,24 @@
     "url": "https://www.instagram.com/9renpoto/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "85.31%",
-    "uptimeWeek": "80.41%",
-    "uptimeMonth": "95.49%",
-    "uptimeYear": "99.62%",
+    "uptimeDay": "86.15%",
+    "uptimeWeek": "80.49%",
+    "uptimeMonth": "95.51%",
+    "uptimeYear": "99.63%",
     "time": 580,
-    "timeDay": 650,
-    "timeWeek": 521,
+    "timeDay": 652,
+    "timeWeek": 525,
     "timeMonth": 556,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2025-10-07": 164,
+      "2025-10-07": 165,
       "2025-10-06": 175,
       "2025-10-05": 197,
       "2025-10-04": 292,
       "2025-10-03": 610,
-      "2025-10-02": 543
+      "2025-10-02": 534
     }
   }
 ]
