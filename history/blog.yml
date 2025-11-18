@@ -1,7 +1,7 @@
 url: https://9renpoto.win/healthz
-status: up
-code: 200
-responseTime: 313
-lastUpdated: 2025-11-17T23:02:30.904Z
+status: down
+code: 500
+responseTime: 556
+lastUpdated: 2025-11-18T11:33:41.070Z
 startTime: 2021-01-12T15:05:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
