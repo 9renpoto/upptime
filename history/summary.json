@@ -158,19 +158,19 @@
     "url": "https://gitlab.com/9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.com.ico",
     "slug": "gitlab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 257,
-    "timeDay": 171,
-    "timeWeek": 284,
+    "timeDay": 228,
+    "timeWeek": 290,
     "timeMonth": 317,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-12-05": 1
+      "2025-12-05": 27
     }
   },
   {
@@ -276,7 +276,7 @@
     "slug": "threads",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "87.03%",
+    "uptimeDay": "88.92%",
     "uptimeWeek": "92.89%",
     "uptimeMonth": "97.20%",
     "uptimeYear": "99.72%",
