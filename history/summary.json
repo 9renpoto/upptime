@@ -12,7 +12,7 @@
     "uptimeYear": "99.75%",
     "time": 942,
     "timeDay": 493,
-    "timeWeek": 648,
+    "timeWeek": 677,
     "timeMonth": 610,
     "timeYear": 1020,
     "dailyMinutesDown": {
@@ -37,7 +37,7 @@
     "uptimeYear": "99.97%",
     "time": 323,
     "timeDay": 223,
-    "timeWeek": 399,
+    "timeWeek": 388,
     "timeMonth": 404,
     "timeYear": 341,
     "dailyMinutesDown": {
@@ -83,7 +83,7 @@
     "uptimeYear": "99.89%",
     "time": 723,
     "timeDay": 352,
-    "timeWeek": 318,
+    "timeWeek": 312,
     "timeMonth": 3000,
     "timeYear": 867,
     "dailyMinutesDown": {
@@ -119,7 +119,7 @@
     "uptimeYear": "99.85%",
     "time": 1863,
     "timeDay": 676,
-    "timeWeek": 648,
+    "timeWeek": 647,
     "timeMonth": 724,
     "timeYear": 2299,
     "dailyMinutesDown": {
@@ -143,7 +143,7 @@
     "uptimeYear": "99.93%",
     "time": 1691,
     "timeDay": 1905,
-    "timeWeek": 1883,
+    "timeWeek": 1881,
     "timeMonth": 1916,
     "timeYear": 1655,
     "dailyMinutesDown": {
@@ -166,7 +166,7 @@
     "uptimeYear": "99.99%",
     "time": 258,
     "timeDay": 425,
-    "timeWeek": 316,
+    "timeWeek": 321,
     "timeMonth": 306,
     "timeYear": 273,
     "dailyMinutesDown": {
@@ -186,7 +186,7 @@
     "uptimeYear": "99.95%",
     "time": 1160,
     "timeDay": 551,
-    "timeWeek": 1825,
+    "timeWeek": 1901,
     "timeMonth": 1253,
     "timeYear": 1066,
     "dailyMinutesDown": {
@@ -213,7 +213,7 @@
     "uptimeYear": "99.99%",
     "time": 269,
     "timeDay": 168,
-    "timeWeek": 279,
+    "timeWeek": 263,
     "timeMonth": 248,
     "timeYear": 275,
     "dailyMinutesDown": {
@@ -239,7 +239,7 @@
     "uptimeYear": "99.93%",
     "time": 500,
     "timeDay": 282,
-    "timeWeek": 500,
+    "timeWeek": 451,
     "timeMonth": 514,
     "timeYear": 510,
     "dailyMinutesDown": {
@@ -277,19 +277,19 @@
     "url": "https://www.threads.net/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "71.77%",
-    "uptimeWeek": "88.31%",
-    "uptimeMonth": "96.06%",
+    "uptimeDay": "71.79%",
+    "uptimeWeek": "88.30%",
+    "uptimeMonth": "96.10%",
     "uptimeYear": "99.67%",
     "time": 696,
-    "timeDay": 660,
-    "timeWeek": 660,
-    "timeMonth": 678,
+    "timeDay": 656,
+    "timeWeek": 659,
+    "timeMonth": 677,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-12-09": 384,
+      "2025-12-09": 385,
       "2025-12-08": 139,
       "2025-12-07": 150,
       "2025-12-06": 180,
@@ -299,8 +299,7 @@
       "2025-12-01": 63,
       "2025-11-30": 296,
       "2025-11-29": 35,
-      "2025-11-27": 65,
-      "2025-11-22": 15
+      "2025-11-27": 65
     }
   },
   {
