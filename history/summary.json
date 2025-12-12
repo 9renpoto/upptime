@@ -196,8 +196,7 @@
       "2025-08-20": 40,
       "2025-08-07": 21,
       "2025-07-15": 117,
-      "2025-04-15": 38,
-      "2024-12-12": 30
+      "2025-04-15": 38
     }
   },
   {
@@ -280,13 +279,13 @@
     "slug": "threads",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "93.54%",
-    "uptimeWeek": "87.48%",
+    "uptimeDay": "94.25%",
+    "uptimeWeek": "87.67%",
     "uptimeMonth": "96.04%",
     "uptimeYear": "99.67%",
     "time": 700,
-    "timeDay": 645,
-    "timeWeek": 687,
+    "timeDay": 614,
+    "timeWeek": 693,
     "timeMonth": 688,
     "timeYear": 710,
     "dailyMinutesDown": {
