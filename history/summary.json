@@ -277,19 +277,19 @@
     "url": "https://www.threads.net/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "80.30%",
-    "uptimeWeek": "86.60%",
-    "uptimeMonth": "95.99%",
+    "uptimeDay": "80.25%",
+    "uptimeWeek": "86.70%",
+    "uptimeMonth": "96.02%",
     "uptimeYear": "99.67%",
     "time": 703,
-    "timeDay": 612,
-    "timeWeek": 679,
-    "timeMonth": 679,
+    "timeDay": 604,
+    "timeWeek": 677,
+    "timeMonth": 678,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2025-12-14": 218,
+      "2025-12-14": 219,
       "2025-12-13": 125,
       "2025-12-12": 98,
       "2025-12-11": 82,
@@ -299,7 +299,7 @@
       "2025-12-07": 150,
       "2025-12-06": 180,
       "2025-12-05": 113,
-      "2025-12-04": 73
+      "2025-12-04": 61
     }
   },
   {
