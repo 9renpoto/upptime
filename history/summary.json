@@ -85,12 +85,12 @@
     "uptime": "99.92%",
     "uptimeDay": "99.34%",
     "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.86%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.89%",
     "time": 716,
     "timeDay": 151,
     "timeWeek": 292,
-    "timeMonth": 317,
+    "timeMonth": 305,
     "timeYear": 856,
     "dailyMinutesDown": {
       "2026-01-02": 9,
@@ -193,7 +193,7 @@
     "time": 1118,
     "timeDay": 972,
     "timeWeek": 842,
-    "timeMonth": 1113,
+    "timeMonth": 1120,
     "timeYear": 1029,
     "dailyMinutesDown": {
       "2025-12-06": 15,
@@ -286,16 +286,16 @@
     "url": "https://www.threads.net/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.net.ico",
     "slug": "threads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "90.19%",
-    "uptimeMonth": "96.36%",
+    "uptimeDay": "94.27%",
+    "uptimeWeek": "90.29%",
+    "uptimeMonth": "96.39%",
     "uptimeYear": "99.70%",
     "time": 701,
-    "timeDay": 622,
-    "timeWeek": 638,
-    "timeMonth": 656,
+    "timeDay": 599,
+    "timeWeek": 637,
+    "timeMonth": 655,
     "timeYear": 712,
     "dailyMinutesDown": {
       "2026-01-02": 83,
@@ -308,7 +308,7 @@
       "2025-12-26": 176,
       "2025-12-25": 274,
       "2025-12-24": 113,
-      "2025-12-23": 62
+      "2025-12-23": 49
     }
   },
   {
