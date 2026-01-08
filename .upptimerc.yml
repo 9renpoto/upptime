@@ -12,8 +12,6 @@ sites:
     url: https://github.com/9renpoto
   - name: wakatime
     url: https://wakatime.com/@9renpoto
-  - name: youtrust
-    url: https://youtrust.jp/users/9renpoto
   - name: wantedly
     url: https://www.wantedly.com/id/keisuke_umeno
   - name: gitlab
@@ -22,12 +20,8 @@ sites:
     url: https://yamap.com/users/2121389
   - name: bluesky
     url: https://bsky.app/profile/9renpoto.win
-  - name: facebook
-    url: https://www.facebook.com/9renpoto
   - name: threads
-    url: https://www.threads.net/@9renpoto
-  - name: pinterest
-    url: https://www.pinterest.jp/9renpoto/
+    url: https://www.threads.com/@9renpoto
 
 status-website:
   baseUrl: /upptime
