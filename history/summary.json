@@ -14,7 +14,7 @@
     "timeDay": 703,
     "timeWeek": 605,
     "timeMonth": 1026,
-    "timeYear": 791,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2026-01-13": 13,
       "2025-11-18": 131,
@@ -171,7 +171,7 @@
     "timeDay": 756,
     "timeWeek": 887,
     "timeMonth": 824,
-    "timeYear": 1008,
+    "timeYear": 983,
     "dailyMinutesDown": {
       "2025-12-06": 15,
       "2025-12-02": 10,
@@ -213,18 +213,19 @@
     "url": "https://www.threads.com/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.com.ico",
     "slug": "threads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "96.05%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "96.08%",
     "uptimeYear": "99.67%",
     "time": 703,
-    "timeDay": 332,
-    "timeWeek": 487,
-    "timeMonth": 619,
+    "timeDay": 261,
+    "timeWeek": 471,
+    "timeMonth": 618,
     "timeYear": 708,
     "dailyMinutesDown": {
+      "2026-01-18": 0,
       "2026-01-16": 21,
       "2026-01-13": 35,
       "2026-01-12": 42,
@@ -243,7 +244,7 @@
       "2025-12-30": 102,
       "2025-12-29": 123,
       "2025-12-28": 127,
-      "2025-12-27": 42
+      "2025-12-27": 30
     }
   }
 ]
