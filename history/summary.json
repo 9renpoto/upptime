@@ -51,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "github",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -211,19 +211,19 @@
     "url": "https://www.threads.com/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.com.ico",
     "slug": "threads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "93.28%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "96.11%",
+    "uptimeDay": "93.24%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "96.14%",
     "uptimeYear": "99.68%",
     "time": 696,
-    "timeDay": 334,
-    "timeWeek": 403,
-    "timeMonth": 578,
+    "timeDay": 332,
+    "timeWeek": 399,
+    "timeMonth": 576,
     "timeYear": 704,
     "dailyMinutesDown": {
-      "2026-01-28": 97,
+      "2026-01-28": 98,
       "2026-01-21": 10,
       "2026-01-20": 14,
       "2026-01-18": 71,
@@ -243,7 +243,7 @@
       "2026-01-01": 254,
       "2025-12-31": 146,
       "2025-12-30": 102,
-      "2025-12-29": 74
+      "2025-12-29": 59
     }
   }
 ]
