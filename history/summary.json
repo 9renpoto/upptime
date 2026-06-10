@@ -150,20 +150,21 @@
     "url": "https://www.wantedly.com/id/keisuke_umeno",
     "icon": "https://icons.duckduckgo.com/ip3/www.wantedly.com.ico",
     "slug": "wantedly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 1849,
+    "time": 1852,
     "timeDay": 2207,
     "timeWeek": 2543,
     "timeMonth": 2328,
     "timeYear": 1955,
     "dailyMinutesDown": {
       "2025-06-30": 123,
-      "2025-12-01": 21
+      "2025-12-01": 21,
+      "2026-06-10": 5
     }
   },
   {
@@ -220,13 +221,13 @@
     "url": "https://bsky.app/profile/9renpoto.win",
     "icon": "https://icons.duckduckgo.com/ip3/bsky.app.ico",
     "slug": "bluesky",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 267,
+    "time": 268,
     "timeDay": 459,
     "timeWeek": 303,
     "timeMonth": 230,
@@ -236,7 +237,8 @@
       "2025-08-26": 8,
       "2025-11-29": 8,
       "2026-04-16": 40,
-      "2026-04-25": 102
+      "2026-04-25": 102,
+      "2026-06-10": 0
     }
   },
   {
