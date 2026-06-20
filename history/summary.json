@@ -245,16 +245,16 @@
     "url": "https://www.threads.com/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.com.ico",
     "slug": "threads",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "92.76%",
-    "uptimeWeek": "94.00%",
-    "uptimeMonth": "98.14%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "89.94%",
+    "uptimeWeek": "93.60%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "99.31%",
     "time": 656,
-    "timeDay": 288,
-    "timeWeek": 320,
-    "timeMonth": 408,
+    "timeDay": 286,
+    "timeWeek": 317,
+    "timeMonth": 405,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2026-02-01": 142,
@@ -301,7 +301,7 @@
       "2026-06-17": 131,
       "2026-06-18": 168,
       "2026-06-19": 226,
-      "2026-06-20": 78
+      "2026-06-20": 119
     }
   }
 ]
