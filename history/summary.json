@@ -4,17 +4,17 @@
     "url": "https://9renpoto.win/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/9renpoto.win.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.69%",
-    "time": 849,
-    "timeDay": 271,
-    "timeWeek": 462,
-    "timeMonth": 606,
-    "timeYear": 908,
+    "uptimeDay": "96.51%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.68%",
+    "time": 847,
+    "timeDay": 256,
+    "timeWeek": 441,
+    "timeMonth": 595,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2025-10-06": 8,
       "2025-11-04": 34,
@@ -27,7 +27,7 @@
       "2026-04-21": 64,
       "2026-04-24": 46,
       "2026-07-01": 43,
-      "2026-07-03": 8
+      "2026-07-03": 50
     }
   },
   {
