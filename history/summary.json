@@ -152,21 +152,22 @@
     "url": "https://www.wantedly.com/id/keisuke_umeno",
     "icon": "https://icons.duckduckgo.com/ip3/www.wantedly.com.ico",
     "slug": "wantedly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.97%",
-    "time": 1895,
-    "timeDay": 2387,
-    "timeWeek": 2266,
-    "timeMonth": 2349,
-    "timeYear": 2022,
+    "time": 1893,
+    "timeDay": 1449,
+    "timeWeek": 2071,
+    "timeMonth": 2293,
+    "timeYear": 2018,
     "dailyMinutesDown": {
       "2025-12-01": 21,
       "2026-06-10": 83,
-      "2026-06-29": 74
+      "2026-06-29": 74,
+      "2026-07-06": 0
     }
   },
   {
