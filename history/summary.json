@@ -171,26 +171,6 @@
     }
   },
   {
-    "name": "gitlab",
-    "url": "https://gitlab.com/9renpoto",
-    "icon": "https://icons.duckduckgo.com/ip3/gitlab.com.ico",
-    "slug": "gitlab",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 264,
-    "timeDay": 154,
-    "timeWeek": 203,
-    "timeMonth": 211,
-    "timeYear": 261,
-    "dailyMinutesDown": {
-      "2025-12-05": 27
-    }
-  },
-  {
     "name": "yamap",
     "url": "https://yamap.com/users/2121389",
     "icon": "https://icons.duckduckgo.com/ip3/yamap.com.ico",
