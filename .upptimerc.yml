@@ -18,8 +18,6 @@ sites:
     url: https://wakatime.com/@umeno
   - name: wantedly
     url: https://www.wantedly.com/id/keisuke_umeno
-  - name: gitlab
-    url: https://gitlab.com/9renpoto
   - name: yamap
     url: https://yamap.com/users/2121389
   - name: bluesky
