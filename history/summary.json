@@ -8,12 +8,12 @@
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 870,
     "timeDay": 611,
     "timeWeek": 907,
-    "timeMonth": 1004,
+    "timeMonth": 1029,
     "timeYear": 895,
     "dailyMinutesDown": {
       "2025-10-06": 8,
@@ -150,11 +150,11 @@
     "url": "https://www.wantedly.com/id/keisuke_umeno",
     "icon": "https://icons.duckduckgo.com/ip3/www.wantedly.com.ico",
     "slug": "wantedly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.95%",
     "time": 1924,
     "timeDay": 1570,
@@ -165,7 +165,8 @@
       "2025-12-01": 21,
       "2026-06-10": 83,
       "2026-06-29": 74,
-      "2026-07-06": 64
+      "2026-07-06": 64,
+      "2026-08-03": 5
     }
   },
   {
@@ -202,9 +203,9 @@
     "url": "https://bsky.app/profile/9renpoto.win",
     "icon": "https://icons.duckduckgo.com/ip3/bsky.app.ico",
     "slug": "bluesky",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -219,7 +220,8 @@
       "2026-04-16": 40,
       "2026-04-25": 102,
       "2026-06-10": 78,
-      "2026-06-29": 69
+      "2026-06-29": 69,
+      "2026-08-03": 0
     }
   },
   {
