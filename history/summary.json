@@ -13,7 +13,7 @@
     "time": 884,
     "timeDay": 571,
     "timeWeek": 688,
-    "timeMonth": 820,
+    "timeMonth": 802,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2025-10-06": 8,
@@ -44,7 +44,7 @@
     "time": 305,
     "timeDay": 320,
     "timeWeek": 219,
-    "timeMonth": 216,
+    "timeMonth": 224,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2025-08-27": 16,
@@ -69,7 +69,7 @@
     "time": 652,
     "timeDay": 376,
     "timeWeek": 647,
-    "timeMonth": 617,
+    "timeMonth": 633,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2025-10-18": 10,
@@ -101,7 +101,7 @@
     "time": 717,
     "timeDay": 463,
     "timeWeek": 303,
-    "timeMonth": 329,
+    "timeMonth": 322,
     "timeYear": 767,
     "dailyMinutesDown": {
       "2025-09-25": 7,
@@ -157,7 +157,7 @@
     "time": 1936,
     "timeDay": 2301,
     "timeWeek": 1850,
-    "timeMonth": 1849,
+    "timeMonth": 1820,
     "timeYear": 2083,
     "dailyMinutesDown": {
       "2025-12-01": 21,
@@ -172,17 +172,17 @@
     "url": "https://yamap.com/users/2121389",
     "icon": "https://icons.duckduckgo.com/ip3/yamap.com.ico",
     "slug": "yamap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.82%",
-    "time": 880,
-    "timeDay": 664,
-    "timeWeek": 725,
-    "timeMonth": 808,
-    "timeYear": 882,
+    "time": 878,
+    "timeDay": 398,
+    "timeWeek": 665,
+    "timeMonth": 788,
+    "timeYear": 880,
     "dailyMinutesDown": {
       "2025-10-11": 14,
       "2025-12-02": 10,
@@ -192,7 +192,8 @@
       "2026-04-03": 717,
       "2026-04-09": 27,
       "2026-07-22": 34,
-      "2026-08-20": 39
+      "2026-08-20": 39,
+      "2026-08-23": 0
     }
   },
   {
@@ -209,7 +210,7 @@
     "time": 345,
     "timeDay": 324,
     "timeWeek": 4549,
-    "timeMonth": 1480,
+    "timeMonth": 1553,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2025-08-26": 8,
@@ -236,7 +237,7 @@
     "time": 635,
     "timeDay": 386,
     "timeWeek": 719,
-    "timeMonth": 668,
+    "timeMonth": 696,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2026-02-05": 112,
