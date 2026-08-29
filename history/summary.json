@@ -173,9 +173,9 @@
     "slug": "yamap",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.81%",
     "time": 874,
     "timeDay": 354,
@@ -193,7 +193,7 @@
       "2026-07-22": 34,
       "2026-08-20": 39,
       "2026-08-23": 31,
-      "2026-08-29": 0
+      "2026-08-29": 25
     }
   },
   {
