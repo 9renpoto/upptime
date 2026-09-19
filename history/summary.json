@@ -13,8 +13,8 @@
     "time": 882,
     "timeDay": 717,
     "timeWeek": 776,
-    "timeMonth": 706,
-    "timeYear": 896,
+    "timeMonth": 712,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2025-10-06": 8,
       "2025-11-04": 34,
@@ -44,7 +44,7 @@
     "time": 302,
     "timeDay": 312,
     "timeWeek": 325,
-    "timeMonth": 252,
+    "timeMonth": 257,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2025-09-30": 10,
@@ -68,8 +68,8 @@
     "time": 661,
     "timeDay": 893,
     "timeWeek": 660,
-    "timeMonth": 569,
-    "timeYear": 714,
+    "timeMonth": 577,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2025-10-18": 10,
       "2025-12-11": 19,
@@ -100,8 +100,8 @@
     "time": 688,
     "timeDay": 179,
     "timeWeek": 298,
-    "timeMonth": 349,
-    "timeYear": 761,
+    "timeMonth": 343,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2025-09-25": 7,
       "2025-10-03": 21,
@@ -156,7 +156,7 @@
     "time": 1953,
     "timeDay": 1553,
     "timeWeek": 1728,
-    "timeMonth": 1908,
+    "timeMonth": 1887,
     "timeYear": 2093,
     "dailyMinutesDown": {
       "2025-12-01": 21,
@@ -171,17 +171,17 @@
     "url": "https://yamap.com/users/2121389",
     "icon": "https://icons.duckduckgo.com/ip3/yamap.com.ico",
     "slug": "yamap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.75%",
-    "time": 873,
-    "timeDay": 989,
-    "timeWeek": 979,
-    "timeMonth": 761,
-    "timeYear": 864,
+    "time": 872,
+    "timeDay": 561,
+    "timeWeek": 873,
+    "timeMonth": 740,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2025-10-11": 14,
       "2025-12-02": 10,
@@ -193,7 +193,8 @@
       "2026-07-22": 34,
       "2026-08-20": 39,
       "2026-08-23": 31,
-      "2026-08-29": 307
+      "2026-08-29": 307,
+      "2026-09-19": 0
     }
   },
   {
@@ -210,8 +211,8 @@
     "time": 352,
     "timeDay": 461,
     "timeWeek": 469,
-    "timeMonth": 412,
-    "timeYear": 382,
+    "timeMonth": 415,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2025-11-29": 8,
       "2026-04-16": 40,
@@ -236,8 +237,8 @@
     "time": 615,
     "timeDay": 334,
     "timeWeek": 449,
-    "timeMonth": 645,
-    "timeYear": 597,
+    "timeMonth": 657,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2026-02-05": 112,
       "2026-02-06": 154,
