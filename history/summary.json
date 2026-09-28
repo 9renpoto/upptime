@@ -13,7 +13,7 @@
     "time": 891,
     "timeDay": 1375,
     "timeWeek": 1028,
-    "timeMonth": 841,
+    "timeMonth": 849,
     "timeYear": 897,
     "dailyMinutesDown": {
       "2025-10-06": 8,
@@ -44,7 +44,7 @@
     "time": 300,
     "timeDay": 122,
     "timeWeek": 282,
-    "timeMonth": 257,
+    "timeMonth": 259,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2025-09-30": 10,
@@ -68,7 +68,7 @@
     "time": 665,
     "timeDay": 348,
     "timeWeek": 580,
-    "timeMonth": 587,
+    "timeMonth": 595,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2025-10-18": 10,
@@ -92,7 +92,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakatime.com.ico",
     "slug": "wakatime",
     "status": "up",
-    "uptime": "98.70%",
+    "uptime": "98.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -100,7 +100,7 @@
     "time": 687,
     "timeDay": 459,
     "timeWeek": 359,
-    "timeMonth": 370,
+    "timeMonth": 363,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2025-10-03": 21,
@@ -155,7 +155,7 @@
     "time": 1959,
     "timeDay": 1798,
     "timeWeek": 1733,
-    "timeMonth": 1879,
+    "timeMonth": 1873,
     "timeYear": 2089,
     "dailyMinutesDown": {
       "2025-12-01": 21,
@@ -179,7 +179,7 @@
     "time": 870,
     "timeDay": 1121,
     "timeWeek": 700,
-    "timeMonth": 789,
+    "timeMonth": 794,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2025-10-11": 14,
@@ -210,7 +210,7 @@
     "time": 355,
     "timeDay": 286,
     "timeWeek": 384,
-    "timeMonth": 395,
+    "timeMonth": 399,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2025-11-29": 8,
@@ -227,19 +227,19 @@
     "url": "https://www.threads.com/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.com.ico",
     "slug": "threads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 613,
-    "timeDay": 389,
-    "timeWeek": 647,
-    "timeMonth": 615,
-    "timeYear": 593,
+    "timeDay": 248,
+    "timeWeek": 580,
+    "timeMonth": 597,
+    "timeYear": 592,
     "dailyMinutesDown": {
-      "2026-02-05": 112,
+      "2026-02-05": 62,
       "2026-02-06": 154,
       "2026-02-08": 44,
       "2026-02-09": 150,
@@ -286,7 +286,8 @@
       "2026-06-30": 92,
       "2026-07-12": 25,
       "2026-07-20": 32,
-      "2026-07-29": 27
+      "2026-07-29": 27,
+      "2026-09-28": 1
     }
   }
 ]
