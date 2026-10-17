@@ -168,16 +168,16 @@
     "url": "https://yamap.com/users/2121389",
     "icon": "https://icons.duckduckgo.com/ip3/yamap.com.ico",
     "slug": "yamap",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.75%",
+    "uptimeDay": "91.05%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.72%",
     "time": 872,
-    "timeDay": 755,
-    "timeWeek": 853,
-    "timeMonth": 855,
+    "timeDay": 739,
+    "timeWeek": 837,
+    "timeMonth": 850,
     "timeYear": 856,
     "dailyMinutesDown": {
       "2025-12-02": 10,
@@ -191,7 +191,7 @@
       "2026-08-23": 31,
       "2026-08-29": 307,
       "2026-09-19": 43,
-      "2026-10-17": 0
+      "2026-10-17": 129
     }
   },
   {
