@@ -14,7 +14,7 @@
     "timeDay": 311,
     "timeWeek": 331,
     "timeMonth": 757,
-    "timeYear": 870,
+    "timeYear": 869,
     "dailyMinutesDown": {
       "2025-11-04": 34,
       "2025-11-03": 1096,
@@ -44,7 +44,7 @@
     "timeDay": 442,
     "timeWeek": 365,
     "timeMonth": 319,
-    "timeYear": 268,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2025-11-18": 114,
       "2026-02-25": 15,
@@ -67,7 +67,7 @@
     "timeDay": 714,
     "timeWeek": 631,
     "timeMonth": 594,
-    "timeYear": 718,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2025-12-11": 19,
       "2025-12-16": 14,
@@ -98,7 +98,7 @@
     "timeDay": 297,
     "timeWeek": 299,
     "timeMonth": 349,
-    "timeYear": 758,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2025-11-02": 14,
       "2025-11-03": 157,
@@ -145,14 +145,14 @@
     "status": "up",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.89%",
     "time": 1971,
     "timeDay": 1611,
-    "timeWeek": 1713,
+    "timeWeek": 1935,
     "timeMonth": 1760,
-    "timeYear": 2069,
+    "timeYear": 2070,
     "dailyMinutesDown": {
       "2025-12-01": 21,
       "2026-06-10": 83,
@@ -224,19 +224,18 @@
     "url": "https://www.threads.com/@9renpoto",
     "icon": "https://icons.duckduckgo.com/ip3/www.threads.com.ico",
     "slug": "threads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.13%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.12%",
     "time": 607,
-    "timeDay": 745,
-    "timeWeek": 422,
-    "timeMonth": 485,
+    "timeDay": 414,
+    "timeWeek": 388,
+    "timeMonth": 473,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2026-02-05": 15,
       "2026-02-06": 154,
       "2026-02-08": 44,
       "2026-02-09": 150,
@@ -286,7 +285,8 @@
       "2026-07-29": 27,
       "2026-09-28": 472,
       "2026-09-29": 110,
-      "2026-10-16": 289
+      "2026-10-16": 289,
+      "2026-10-22": 1
     }
   }
 ]
